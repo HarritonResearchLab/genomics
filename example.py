@@ -1,9 +1,4 @@
 def sokolovskyNu(x,xerr):
-    '''
-    Best working version for calculating nu variabilty metric 
-    from Sokolovsky et al. 2017. 
-    '''
-    
     # Import(s)
     import numpy as np
     

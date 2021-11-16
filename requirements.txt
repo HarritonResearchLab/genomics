@@ -1,4 +1,5 @@
-# external requirements
+# External Requirements
+## Python
 pandas
 numpy 
 pyarrow
@@ -6,3 +7,5 @@ matplotlib
 seaborn
 sklearn
 scipy
+## Other 
+7-Zip

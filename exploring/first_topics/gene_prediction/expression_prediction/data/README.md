@@ -6,5 +6,6 @@
 - The expressions of 22,283 genes are measured across 253 samples.
 
 ## Notes
+- Actual data table begins in row 115
 
 ## Thoughts

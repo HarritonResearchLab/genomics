@@ -1,4 +1,4 @@
-##Data Description
+## Data Description
 - Data source: converted from the binary RData files in tissuesGeneExpression R package available from the genomicsclass GitHub repository. The data in this package was collected from the following papers by Michael Love and Rafael Irizarry:
 
 http://www.ncbi.nlm.nih.gov/pubmed/17906632%20 http://www.ncbi.nlm.nih.gov/pubmed/21177656%20 http://www.ncbi.nlm.nih.gov/pubmed/24271388
@@ -6,6 +6,6 @@ http://www.ncbi.nlm.nih.gov/pubmed/17906632%20 http://www.ncbi.nlm.nih.gov/pubme
 
 - The expressions of 22,215 genes (the predictors) are measured in 189 tissue samples (the outcomes).
 
-##Notes
+## Notes
 
-##Thoughts
+## Thoughts

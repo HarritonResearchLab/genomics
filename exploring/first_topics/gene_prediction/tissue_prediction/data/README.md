@@ -11,7 +11,7 @@
 * It is recommended to exclude samples from the placenta due to their small number. 
 
 ## Thoughts
-* Use multidimensional scaling instead of PDS first (probably should talk about MDS on Wednesday)
-* Perhaps randomly sample 500 genes and then do MDS (see [sklearn documentation](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.MDS.html))
+* ~~Use multidimensional scaling instead of PDS first (probably should talk about MDS on Wednesday)~~
+* ~~Perhaps randomly sample 500 genes and then~~ do MDS (see [sklearn documentation](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.MDS.html))
 * Should probably test accuracy of k = {3, 5, 7, 9, 13} and dim = {2, 4, 6, 8, 12} (maybe make 3D plot with z= knn accuracy)
 * Should we make little directories with README.MDs like this for every major data set we use? 

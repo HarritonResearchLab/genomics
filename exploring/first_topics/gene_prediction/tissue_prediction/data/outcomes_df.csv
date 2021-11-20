@@ -1,0 +1,190 @@
+filename,tissue_name,tissue_ordinal,sub_type
+GSM11805.CEL.gz,kidney,2,normal
+GSM11814.CEL.gz,kidney,2,cancer
+GSM11823.CEL.gz,kidney,2,normal
+GSM11830.CEL.gz,kidney,2,cancer
+GSM12067.CEL.gz,kidney,2,cancer
+GSM12075.CEL.gz,kidney,2,normal
+GSM12079.CEL.gz,kidney,2,cancer
+GSM12098.CEL.gz,kidney,2,normal
+GSM12105.CEL.gz,kidney,2,cancer
+GSM12268.CEL.gz,kidney,2,normal
+GSM12270.CEL.gz,kidney,2,cancer
+GSM12283.CEL.gz,kidney,2,normal
+GSM12298.CEL.gz,kidney,2,cancer
+GSM12300.CEL.gz,kidney,2,normal
+GSM12399.CEL.gz,kidney,2,cancer
+GSM12444.CEL.gz,kidney,2,normal
+GSM21203.cel.gz,hippocampus,6,severe
+GSM21204.cel.gz,hippocampus,6,incipient
+GSM21205.cel.gz,hippocampus,6,incipient
+GSM21206.cel.gz,hippocampus,6,severe
+GSM21207.cel.gz,hippocampus,6,severe
+GSM21208.cel.gz,hippocampus,6,severe
+GSM21209.cel.gz,hippocampus,6,moderate
+GSM21210.cel.gz,hippocampus,6,moderate
+GSM21212.cel.gz,hippocampus,6,severe
+GSM21213.cel.gz,hippocampus,6,severe
+GSM21214.cel.gz,hippocampus,6,moderate
+GSM21215.cel.gz,hippocampus,6,normal
+GSM21216.cel.gz,hippocampus,6,incipient
+GSM21217.cel.gz,hippocampus,6,normal
+GSM21218.cel.gz,hippocampus,6,normal
+GSM21219.cel.gz,hippocampus,6,normal
+GSM21220.cel.gz,hippocampus,6,normal
+GSM21221.cel.gz,hippocampus,6,normal
+GSM21222.cel.gz,hippocampus,6,incipient
+GSM21223.cel.gz,hippocampus,6,moderate
+GSM21224.cel.gz,hippocampus,6,moderate
+GSM21225.cel.gz,hippocampus,6,incipient
+GSM21226.cel.gz,hippocampus,6,normal
+GSM21227.cel.gz,hippocampus,6,moderate
+GSM21228.cel.gz,hippocampus,6,incipient
+GSM21229.cel.gz,hippocampus,6,severe
+GSM21230.cel.gz,hippocampus,6,moderate
+GSM21231.cel.gz,hippocampus,6,normal
+GSM21232.cel.gz,hippocampus,6,normal
+GSM21233.cel.gz,hippocampus,6,incipient
+GSM87058.cel.gz,cerebellum,0,normal
+GSM87064.cel.gz,cerebellum,0,normal
+GSM87065.cel.gz,cerebellum,0,normal
+GSM87066.cel.gz,cerebellum,0,normal
+GSM87071.cel.gz,cerebellum,0,normal
+GSM87072.cel.gz,cerebellum,0,normal
+GSM87073.cel.gz,cerebellum,0,normal
+GSM87074.cel.gz,cerebellum,0,normal
+GSM87075.cel.gz,cerebellum,0,normal
+GSM87085.cel.gz,cerebellum,0,normal
+GSM87086.cel.gz,cerebellum,0,normal
+GSM87087.cel.gz,cerebellum,0,normal
+GSM87088.cel.gz,cerebellum,0,normal
+GSM87089.cel.gz,cerebellum,0,normal
+GSM87090.CEL.gz,cerebellum,0,normal
+GSM87091.cel.gz,cerebellum,0,normal
+GSM87092.cel.gz,cerebellum,0,normal
+GSM87093.cel.gz,cerebellum,0,normal
+GSM87094.cel.gz,cerebellum,0,normal
+GSM87095.cel.gz,cerebellum,0,normal
+GSM87096.cel.gz,cerebellum,0,normal
+GSM87097.cel.gz,cerebellum,0,normal
+GSM87098.cel.gz,cerebellum,0,normal
+GSM87099.cel.gz,cerebellum,0,normal
+GSM87100.cel.gz,cerebellum,0,normal
+GSM87101.cel.gz,cerebellum,0,normal
+GSM87102.cel.gz,cerebellum,0,normal
+GSM146778.CEL.gz,kidney,2,normal
+GSM146779.CEL.gz,kidney,2,tumor- stage 1
+GSM146781.CEL.gz,kidney,2,tumor- stage 1
+GSM146782.CEL.gz,kidney,2,normal
+GSM146783.CEL.gz,kidney,2,tumor- stage 1
+GSM146785.CEL.gz,kidney,2,tumor- stage 1
+GSM146787.CEL.gz,kidney,2,tumor- stage 1
+GSM146788.CEL.gz,kidney,2,tumor- stage 2
+GSM146789.CEL.gz,kidney,2,normal
+GSM146791.CEL.gz,kidney,2,tumor- stage 2
+GSM146793.CEL.gz,kidney,2,tumor- stage 2
+GSM146795.CEL.gz,kidney,2,tumor- stage 2
+GSM146797.CEL.gz,kidney,2,tumor- stage 2
+GSM92240.CEL.gz,colon,5,tumor
+GSM92241.CEL.gz,colon,5,tumor
+GSM92242.CEL.gz,colon,5,tumor
+GSM92243.CEL.gz,colon,5,tumor
+GSM92244.CEL.gz,colon,5,tumor
+GSM92245.CEL.gz,colon,5,tumor
+GSM92247.CEL.gz,colon,5,tumor
+GSM92248.CEL.gz,colon,5,tumor
+GSM92249.CEL.gz,colon,5,tumor
+GSM92250.CEL.gz,colon,5,tumor
+GSM92253.CEL.gz,colon,5,tumor
+GSM92254.CEL.gz,colon,5,tumor
+GSM92255.CEL.gz,colon,5,tumor
+GSM92256.CEL.gz,colon,5,tumor
+GSM92257.CEL.gz,colon,5,tumor
+GSM92258.CEL.gz,colon,5,tumor
+GSM92259.CEL.gz,colon,5,tumor
+GSM92260.CEL.gz,colon,5,tumor
+GSM92261.CEL.gz,colon,5,tumor
+GSM92262.CEL.gz,colon,5,tumor
+GSM92263.CEL.gz,colon,5,tumor
+GSM92264.CEL.gz,colon,5,tumor
+GSM92265.CEL.gz,colon,5,tumor
+GSM92266.CEL.gz,colon,5,tumor
+GSM92267.CEL.gz,colon,5,tumor
+GSM92268.CEL.gz,colon,5,tumor
+GSM92269.CEL.gz,colon,5,tumor
+GSM92270.CEL.gz,colon,5,tumor
+GSM92271.CEL.gz,colon,5,tumor
+GSM92272.CEL.gz,colon,5,tumor
+GSM92273.CEL.gz,colon,5,tumor
+GSM92274.CEL.gz,colon,5,tumor
+GSM92275.CEL.gz,colon,5,tumor
+GSM92276.CEL.gz,colon,5,tumor
+GSM35979.cel.gz,kidney,2,normal
+GSM35980.cel.gz,kidney,2,normal
+GSM35981.cel.gz,kidney,2,normal
+GSM35982.cel.gz,liver,4,normal
+GSM35983.cel.gz,liver,4,normal
+GSM35984.cel.gz,liver,4,normal
+GSM35991.cel.gz,kidney,2,normal
+GSM35992.cel.gz,kidney,2,normal
+GSM35993.cel.gz,kidney,2,normal
+GSM35994.cel.gz,liver,4,normal
+GSM35995.cel.gz,liver,4,normal
+GSM35996.cel.gz,liver,4,normal
+GSM36003.cel.gz,kidney,2,normal
+GSM44675.CEL.gz,kidney,2,normal
+GSM44689.CEL.gz,cerebellum,0,normal
+GSM44697.CEL.gz,hippocampus,6,normal
+GSM44702.CEL.gz,liver,4,normal
+GSM181429.CEL.gz,liver,4,hepatocellular adenoma
+GSM181430.CEL.gz,liver,4,hepatocellular adenoma
+GSM181431.CEL.gz,liver,4,hepatocellular adenoma
+GSM181432.CEL.gz,liver,4,hepatocellular adenoma
+GSM181433.CEL.gz,liver,4,hepatocellular adenoma
+GSM18917.CEL.gz,cerebellum,0,normal
+GSM18918.CEL.gz,cerebellum,0,normal
+GSM18953.CEL.gz,liver,4,normal
+GSM18954.CEL.gz,liver,4,normal
+GSM18955.CEL.gz,kidney,2,normal
+GSM18956.CEL.gz,kidney,2,normal
+GSM296875.CEL.gz,endometrium,3,normal
+GSM296876.CEL.gz,endometrium,3,normal
+GSM296878.CEL.gz,endometrium,3,normal
+GSM296879.CEL.gz,endometrium,3,normal
+GSM296880.CEL.gz,endometrium,3,normal
+GSM296881.CEL.gz,endometrium,3,normal
+GSM296882.CEL.gz,endometrium,3,normal
+GSM296883.CEL.gz,endometrium,3,normal
+GSM296886.CEL.gz,endometrium,3,"endometriosis, broard ligament"
+GSM296887.CEL.gz,endometrium,3,"endometriosis, broard ligament"
+GSM296888.CEL.gz,endometrium,3,"endometriosis, broard ligament"
+GSM296889.CEL.gz,endometrium,3,"endometriosis, broard ligament"
+GSM296890.CEL.gz,endometrium,3,"endometriosis, broard ligament"
+GSM296891.CEL.gz,endometrium,3,"endometriosis, broard ligament"
+GSM296892.CEL.gz,endometrium,3,"endometriosis, broard ligament"
+GSM298747.CEL.gz,liver,4,ihca
+GSM298748.CEL.gz,liver,4,ihca
+GSM298749.CEL.gz,liver,4,ihca
+GSM298750.CEL.gz,liver,4,ihca
+GSM299110.CEL.gz,liver,4,ihca
+GSM299111.CEL.gz,liver,4,ihca
+GSM299112.CEL.gz,liver,4,ihca
+GSM299113.CEL.gz,liver,4,ihca
+GSM299244.CEL.gz,liver,4,normal
+GSM299245.CEL.gz,liver,4,normal
+GSM299246.CEL.gz,liver,4,normal
+GSM299247.CEL.gz,liver,4,normal
+GSM322969.CEL.gz,cerebellum,0,pilocytic astrocytoma
+GSM323054.CEL.gz,cerebellum,0,pilocytic astrocytoma
+GSM323523.CEL.gz,cerebellum,0,pilocytic astrocytoma
+GSM323524.CEL.gz,cerebellum,0,pilocytic astrocytoma
+GSM323527.CEL.gz,cerebellum,0,pilocytic astrocytoma
+GSM323565.CEL.gz,cerebellum,0,normal
+GSM323566.CEL.gz,cerebellum,0,normal
+GSM323567.CEL.gz,cerebellum,0,normal
+GSM246492.CEL.gz,placenta,1,
+GSM246493.CEL.gz,placenta,1,
+GSM246494.CEL.gz,placenta,1,
+GSM307639.CEL.gz,placenta,1,
+GSM307640.CEL.gz,placenta,1,
+GSM307641.CEL.gz,placenta,1,

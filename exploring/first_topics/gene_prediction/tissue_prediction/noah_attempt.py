@@ -21,6 +21,6 @@ tissue_classes = {'cerebellum':0,
 mds = MDS()
 X=mds.fit_transform(gene_df)
 model = KNeighborsClassifier()
-X_train, X_test, y_train, y_test = train_test_split(X, tissue_df['tissue_ordinal'], test_size=0.15)
+X_train, X_test, y_train, y_test = train_test_split(X, tissue_df['tissue_ordinal'], test_size=0.30)
 model.fit(X_train, y_train)
 print(accuracy_score(model.predict(X_test), y_test))

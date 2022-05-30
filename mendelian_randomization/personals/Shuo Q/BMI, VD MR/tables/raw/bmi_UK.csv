@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ieu-b-40","ukb-b-17670","Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670","body mass index || id:ieu-b-40","MR Egger",380,0.00145674759931299,0.00137128027045324,0.288765632499465
+"ieu-b-40","ukb-b-17670","Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670","body mass index || id:ieu-b-40","Weighted median",380,0.000659690693813844,0.000816307469915485,0.419010010688895
+"ieu-b-40","ukb-b-17670","Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670","body mass index || id:ieu-b-40","Inverse variance weighted",380,0.000819625778731415,0.000466006747234408,0.0786067042547635
+"ieu-b-40","ukb-b-17670","Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670","body mass index || id:ieu-b-40","Simple mode",380,0.00148712086899275,0.00203373782059659,0.465093289504319
+"ieu-b-40","ukb-b-17670","Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670","body mass index || id:ieu-b-40","Weighted mode",380,0.00115895692005392,0.0013197391003095,0.380407167056559

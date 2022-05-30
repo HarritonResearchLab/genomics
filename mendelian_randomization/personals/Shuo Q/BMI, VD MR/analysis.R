@@ -59,4 +59,20 @@ vit_exa_plot[[1]]
 vit_Fin_plot[[1]]
 vit_UK_plot[[1]]
 
+# save tables
+write.csv(bmi_exa_mr, file = "bmi_exa.csv", row.names = F)
+write.csv(bmi_Fin_mr, file = "bmi_Fin.csv", row.names = F)
+write.csv(bmi_UK_mr, file = "bmi_UK.csv", row.names = F)
+write.csv(vit_exa_mr, file = "vit_exa.csv", row.names = F)
+write.csv(vit_Fin_mr, file = "vit_Fin.csv", row.names = F)
+write.csv(vit_UK_mr, file = "vit_UK.csv", row.names = F)
+
+# Het Test
+bmi_exa_het <- mr_heterogeneity(bmi_exa_hm)
+bmi_Fin_het <- mr_heterogeneity(bmi_Fin_hm)
+bmi_UK_het <- mr_heterogeneity(bmi_UK_hm)
+
+vit_exa_het <- mr_heterogeneity(vit_exa_hm)
+vit_Fin_het <- mr_heterogeneity(vit_Fin_hm)
+vit_UK_het <- mr_heterogeneity(vit_UK_hm)
 

@@ -63,6 +63,7 @@ vit_UK_plot[[1]]
 write.csv(bmi_exa_mr, file = "bmi_exa.csv", row.names = F)
 write.csv(bmi_Fin_mr, file = "bmi_Fin.csv", row.names = F)
 write.csv(bmi_UK_mr, file = "bmi_UK.csv", row.names = F)
+
 write.csv(vit_exa_mr, file = "vit_exa.csv", row.names = F)
 write.csv(vit_Fin_mr, file = "vit_Fin.csv", row.names = F)
 write.csv(vit_UK_mr, file = "vit_UK.csv", row.names = F)
@@ -75,4 +76,37 @@ bmi_UK_het <- mr_heterogeneity(bmi_UK_hm)
 vit_exa_het <- mr_heterogeneity(vit_exa_hm)
 vit_Fin_het <- mr_heterogeneity(vit_Fin_hm)
 vit_UK_het <- mr_heterogeneity(vit_UK_hm)
+# ----------------------------------------------------
+write.csv(bmi_exa_het, file = "bmi_exa_het.csv",row.names = F)
+write.csv(bmi_Fin_het, file = "bmi_Fin_het.csv",row.names = F)
+write.csv(bmi_UK_het, file = "bmi_UK_het.csv",row.names = F)
+
+write.csv(vit_exa_het, file = "vit_exa_het.csv",row.names = F)
+write.csv(vit_Fin_het, file = "vit_Fin_het.csv",row.names = F)
+write.csv(vit_UK_het, file = "vit_UK_het.csv",row.names = F)
+
+# intercept test
+bmi_exa_int <- mr_pleiotropy_test(bmi_exa_hm)
+bmi_Fin_int <- mr_pleiotropy_test(bmi_Fin_hm)
+bmi_UK_int <- mr_pleiotropy_test(bmi_UK_hm)
+
+vit_exa_int <- mr_pleiotropy_test(vit_exa_hm)
+vit_Fin_int <- mr_pleiotropy_test(vit_Fin_hm)
+vit_UK_int <- mr_pleiotropy_test(vit_UK_hm)
+# -----------------------------------------------------
+write.csv(bmi_exa_int, file = "bmi_exa_int.csv",row.names = F)
+write.csv(bmi_Fin_int, file = "bmi_Fin_int.csv",row.names = F)
+write.csv(bmi_UK_int, file = "bmi_UK_int.csv",row.names = F)
+
+write.csv(vit_exa_int, file = "vit_exa_int.csv",row.names = F)
+write.csv(vit_Fin_int, file = "vit_Fin_int.csv",row.names = F)
+write.csv(vit_UK_int, file = "vit_UK_int.csv",row.names = F)
+
+setwd("D:/Software/Github/genomics/mendelian_randomization/personals/Shuo Q/BMI, VD MR/tables/raw")
+
+
+
+
+
+
 

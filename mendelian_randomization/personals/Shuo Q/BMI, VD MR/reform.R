@@ -184,7 +184,6 @@ write.csv(vit_UK_reformed, file = "vit_UK_reformed.csv",row.names = F)
 
 # remove(bmi_exa_reformed, bmi_Fin_reformed, bmi_UK_reformed, vit_exa_reformed, vit_Fin_reformed, vit_UK_reformed)
 
-
-
+gettext(deparse(substitute(bmi_exa_mr)))
 
 

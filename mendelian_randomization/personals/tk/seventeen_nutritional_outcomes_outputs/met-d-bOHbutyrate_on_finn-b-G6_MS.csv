@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","met-d-bOHbutyrate","finn-b-G6_MS","MS-disease / Multiple Sclerosis || id:finn-b-G6_MS","3-Hydroxybutyrate || id:met-d-bOHbutyrate","MR Egger",14,-1.48882995843681,0.965712875690952,0.149096286980575
+"2","met-d-bOHbutyrate","finn-b-G6_MS","MS-disease / Multiple Sclerosis || id:finn-b-G6_MS","3-Hydroxybutyrate || id:met-d-bOHbutyrate","Weighted median",14,-0.28788637004475,0.450306294054181,0.52261976313156
+"3","met-d-bOHbutyrate","finn-b-G6_MS","MS-disease / Multiple Sclerosis || id:finn-b-G6_MS","3-Hydroxybutyrate || id:met-d-bOHbutyrate","Inverse variance weighted",14,0.0550612421194036,0.350396111423631,0.875134520085693
+"4","met-d-bOHbutyrate","finn-b-G6_MS","MS-disease / Multiple Sclerosis || id:finn-b-G6_MS","3-Hydroxybutyrate || id:met-d-bOHbutyrate","Simple mode",14,-0.484990891332567,0.670416776341449,0.482238298289446
+"5","met-d-bOHbutyrate","finn-b-G6_MS","MS-disease / Multiple Sclerosis || id:finn-b-G6_MS","3-Hydroxybutyrate || id:met-d-bOHbutyrate","Weighted mode",14,-0.439725950063139,0.566282305275449,0.451343678347949

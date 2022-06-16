@@ -1,0 +1,6 @@
+"index","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","met-d-bOHbutyrate","ukb-b-17670","Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670","3-Hydroxybutyrate || id:met-d-bOHbutyrate","MR Egger",6,0.0028718038948082,0.00928675201113991,0.772579979739446
+"2","met-d-bOHbutyrate","ukb-b-17670","Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670","3-Hydroxybutyrate || id:met-d-bOHbutyrate","Weighted median",6,0.000517023813537849,0.00200657872375796,0.79666595761721
+"3","met-d-bOHbutyrate","ukb-b-17670","Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670","3-Hydroxybutyrate || id:met-d-bOHbutyrate","Inverse variance weighted",6,0.000302948141331174,0.00160954432409467,0.850704336835713
+"4","met-d-bOHbutyrate","ukb-b-17670","Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670","3-Hydroxybutyrate || id:met-d-bOHbutyrate","Simple mode",6,0.00112638308353316,0.00300382563495458,0.723052808948288
+"5","met-d-bOHbutyrate","ukb-b-17670","Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670","3-Hydroxybutyrate || id:met-d-bOHbutyrate","Weighted mode",6,0.00139881846010347,0.00304101225094221,0.664837463459179

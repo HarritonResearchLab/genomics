@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","met-d-Acetoacetate","finn-b-G6_MS","MS-disease / Multiple Sclerosis || id:finn-b-G6_MS","Acetoacetate || id:met-d-Acetoacetate","MR Egger",7,-0.504481479851043,1.71998580882921,0.781072319984529
+"2","met-d-Acetoacetate","finn-b-G6_MS","MS-disease / Multiple Sclerosis || id:finn-b-G6_MS","Acetoacetate || id:met-d-Acetoacetate","Weighted median",7,-0.66233259556805,0.629256355133535,0.29254085699354
+"3","met-d-Acetoacetate","finn-b-G6_MS","MS-disease / Multiple Sclerosis || id:finn-b-G6_MS","Acetoacetate || id:met-d-Acetoacetate","Inverse variance weighted",7,-0.658929595950167,0.503784866705694,0.190887454751796
+"4","met-d-Acetoacetate","finn-b-G6_MS","MS-disease / Multiple Sclerosis || id:finn-b-G6_MS","Acetoacetate || id:met-d-Acetoacetate","Simple mode",7,-0.880351683526211,0.827761744546415,0.328458722609112
+"5","met-d-Acetoacetate","finn-b-G6_MS","MS-disease / Multiple Sclerosis || id:finn-b-G6_MS","Acetoacetate || id:met-d-Acetoacetate","Weighted mode",7,-0.69681244323362,0.767852263309037,0.399131045627589

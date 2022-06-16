@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","met-a-427","ieu-b-18","multiple sclerosis || id:ieu-b-18","2-hydroxyisobutyrate || id:met-a-427","MR Egger",3,-0.294490645033949,2.89159302630888,0.935387039321726
+"2","met-a-427","ieu-b-18","multiple sclerosis || id:ieu-b-18","2-hydroxyisobutyrate || id:met-a-427","Weighted median",3,0.110941001437324,0.626332951445998,0.859407976228464
+"3","met-a-427","ieu-b-18","multiple sclerosis || id:ieu-b-18","2-hydroxyisobutyrate || id:met-a-427","Inverse variance weighted",3,0.36779444345829,0.851811240868355,0.665901840903945
+"4","met-a-427","ieu-b-18","multiple sclerosis || id:ieu-b-18","2-hydroxyisobutyrate || id:met-a-427","Simple mode",3,-0.312642177771909,0.947171792551029,0.772707345229183
+"5","met-a-427","ieu-b-18","multiple sclerosis || id:ieu-b-18","2-hydroxyisobutyrate || id:met-a-427","Weighted mode",3,-0.0112238790704504,0.667696736626546,0.988114483759849

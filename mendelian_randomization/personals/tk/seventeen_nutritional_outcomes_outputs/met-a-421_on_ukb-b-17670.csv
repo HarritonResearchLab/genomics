@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","met-a-421","ukb-b-17670","Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670","3-methyl-2-oxobutyrate || id:met-a-421","Wald ratio",1,0.00511588524590164,0.0102613114754098,0.618088992294656

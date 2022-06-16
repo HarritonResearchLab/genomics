@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","met-d-Acetate","ieu-b-18","multiple sclerosis || id:ieu-b-18","Acetate || id:met-d-Acetate","MR Egger",5,1.35524002687756,1.41063317719078,0.407560354186692
+"2","met-d-Acetate","ieu-b-18","multiple sclerosis || id:ieu-b-18","Acetate || id:met-d-Acetate","Weighted median",5,0.486913596492142,0.25497067410674,0.0561738214932832
+"3","met-d-Acetate","ieu-b-18","multiple sclerosis || id:ieu-b-18","Acetate || id:met-d-Acetate","Inverse variance weighted",5,0.207028267187818,0.536240899587683,0.699442419921032
+"4","met-d-Acetate","ieu-b-18","multiple sclerosis || id:ieu-b-18","Acetate || id:met-d-Acetate","Simple mode",5,0.417232989583022,0.31444785877812,0.255227075775828
+"5","met-d-Acetate","ieu-b-18","multiple sclerosis || id:ieu-b-18","Acetate || id:met-d-Acetate","Weighted mode",5,0.524154455488113,0.261021159265952,0.115049096738485

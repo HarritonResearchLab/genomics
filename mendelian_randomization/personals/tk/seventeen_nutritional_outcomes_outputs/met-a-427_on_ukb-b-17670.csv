@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","met-a-427","ukb-b-17670","Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670","2-hydroxyisobutyrate || id:met-a-427","Inverse variance weighted",2,-0.00230987375607807,0.00617238052330996,0.708235159493023

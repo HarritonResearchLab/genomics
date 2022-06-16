@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","met-d-Acetate","ukb-b-17670","Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670","Acetate || id:met-d-Acetate","MR Egger",5,0.00563332878988235,0.0256540168061292,0.840284341372598
+"2","met-d-Acetate","ukb-b-17670","Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670","Acetate || id:met-d-Acetate","Weighted median",5,-0.00236050661541637,0.00254777262452563,0.354187159679697
+"3","met-d-Acetate","ukb-b-17670","Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670","Acetate || id:met-d-Acetate","Inverse variance weighted",5,-0.00343391687325979,0.00191212853244152,0.0725166417565752
+"4","met-d-Acetate","ukb-b-17670","Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670","Acetate || id:met-d-Acetate","Simple mode",5,-0.00180504670868555,0.00331649121750152,0.615178394088586
+"5","met-d-Acetate","ukb-b-17670","Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670","Acetate || id:met-d-Acetate","Weighted mode",5,-0.00189869016390459,0.00330467611298667,0.596365223054228

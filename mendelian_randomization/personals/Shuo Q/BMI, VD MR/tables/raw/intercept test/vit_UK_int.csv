@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ebi-a-GCST005367","ukb-b-17670","Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670","Vitamin D levels || id:ebi-a-GCST005367",-0.000499269028066773,0.000216514960177477,0.104419060988543

@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ieu-b-40","ukb-b-17670","Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670","body mass index || id:ieu-b-40",-1.02578611312516e-05,2.07613735632303e-05,0.62153389165238

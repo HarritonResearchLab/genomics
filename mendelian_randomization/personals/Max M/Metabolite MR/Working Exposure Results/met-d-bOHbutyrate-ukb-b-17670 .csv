@@ -1,0 +1,24 @@
+        id.exposure  id.outcome
+1 met-d-bOHbutyrate ukb-b-17670
+2 met-d-bOHbutyrate ukb-b-17670
+3 met-d-bOHbutyrate ukb-b-17670
+4 met-d-bOHbutyrate ukb-b-17670
+5 met-d-bOHbutyrate ukb-b-17670
+                                                                       outcome
+1 Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670
+2 Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670
+3 Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670
+4 Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670
+5 Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670
+                                   exposure                    method nsnp            b
+1 3-Hydroxybutyrate || id:met-d-bOHbutyrate                  MR Egger    6 0.0028718039
+2 3-Hydroxybutyrate || id:met-d-bOHbutyrate           Weighted median    6 0.0005170238
+3 3-Hydroxybutyrate || id:met-d-bOHbutyrate Inverse variance weighted    6 0.0003029481
+4 3-Hydroxybutyrate || id:met-d-bOHbutyrate               Simple mode    6 0.0011263831
+5 3-Hydroxybutyrate || id:met-d-bOHbutyrate             Weighted mode    6 0.0013988185
+           se      pval
+1 0.009286752 0.7725800
+2 0.002057066 0.8015509
+3 0.001609544 0.8507043
+4 0.003294756 0.7463481
+5 0.002834433 0.6425637

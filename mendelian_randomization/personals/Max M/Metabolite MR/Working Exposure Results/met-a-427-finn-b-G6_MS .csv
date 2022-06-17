@@ -1,0 +1,18 @@
+  id.exposure   id.outcome                                            outcome
+1   met-a-427 finn-b-G6_MS MS-disease / Multiple Sclerosis || id:finn-b-G6_MS
+2   met-a-427 finn-b-G6_MS MS-disease / Multiple Sclerosis || id:finn-b-G6_MS
+3   met-a-427 finn-b-G6_MS MS-disease / Multiple Sclerosis || id:finn-b-G6_MS
+4   met-a-427 finn-b-G6_MS MS-disease / Multiple Sclerosis || id:finn-b-G6_MS
+5   met-a-427 finn-b-G6_MS MS-disease / Multiple Sclerosis || id:finn-b-G6_MS
+                              exposure                    method nsnp         b       se
+1 2-hydroxyisobutyrate || id:met-a-427                  MR Egger    3 -3.438496 6.491155
+2 2-hydroxyisobutyrate || id:met-a-427           Weighted median    3 -2.320968 1.458096
+3 2-hydroxyisobutyrate || id:met-a-427 Inverse variance weighted    3 -1.709091 1.952448
+4 2-hydroxyisobutyrate || id:met-a-427               Simple mode    3 -3.374075 2.067337
+5 2-hydroxyisobutyrate || id:met-a-427             Weighted mode    3 -2.576120 1.652039
+       pval
+1 0.6898770
+2 0.1114343
+3 0.3813790
+4 0.2442509
+5 0.2592603

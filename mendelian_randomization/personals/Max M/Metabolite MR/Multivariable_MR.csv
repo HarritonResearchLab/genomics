@@ -1,0 +1,40 @@
+id.exposure,exposure,id.outcome,outcome,nsnp,b,se,pval
+met-a-311,3-hydroxybutyrate (BHBA) || id:met-a-311,ieu-b-18,multiple sclerosis || id:ieu-b-18,0,-3.18073915491849,2.0693235836655,0.1242709676329
+met-a-386,Phenylacetate || id:met-a-386,ieu-b-18,multiple sclerosis || id:ieu-b-18,0,-0.548736258422227,3.17299201743436,0.862698832918046
+met-a-393,X-04499--3,4-dihydroxybutyrate || id:met-a-393,ieu-b-18,multiple sclerosis || id:ieu-b-18,1,-2.81196537659528,2.8873242850342,0.330106149824934
+met-a-420,2-hydroxybutyrate (AHB) || id:met-a-420,ieu-b-18,multiple sclerosis || id:ieu-b-18,0,-4.1082933748264,3.9914589948207,0.303352301556785
+met-a-421,3-methyl-2-oxobutyrate || id:met-a-421,ieu-b-18,multiple sclerosis || id:ieu-b-18,0,1.34063568471595,6.28374869222959,0.83105423731709
+met-a-427,2-hydroxyisobutyrate || id:met-a-427,ieu-b-18,multiple sclerosis || id:ieu-b-18,3,0.307253368795274,1.64288655973533,0.851644606160538
+met-a-446,Indoleacetate || id:met-a-446,ieu-b-18,multiple sclerosis || id:ieu-b-18,1,-0.890585991582398,2.02073217324293,0.659412523874561
+met-a-471,2-aminobutyrate || id:met-a-471,ieu-b-18,multiple sclerosis || id:ieu-b-18,2,0.756655048556609,2.71512391333944,0.780489192248243
+met-c-838,Acetoacetate || id:met-c-838,ieu-b-18,multiple sclerosis || id:ieu-b-18,0,0.749957014564995,1.43484170106835,0.601199891091985
+met-c-839,Acetate || id:met-c-839,ieu-b-18,multiple sclerosis || id:ieu-b-18,0,1.40327178221353,1.13383298929801,0.21585130281413
+met-c-846,3-hydroxybutyrate || id:met-c-846,ieu-b-18,multiple sclerosis || id:ieu-b-18,0,-0.146568064925143,1.31626960291384,0.911337937336511
+met-d-Acetate,Acetate || id:met-d-Acetate,ieu-b-18,multiple sclerosis || id:ieu-b-18,4,-0.373182616673845,0.723602735648266,0.606043985396972
+met-d-Acetoacetate,Acetoacetate || id:met-d-Acetoacetate,ieu-b-18,multiple sclerosis || id:ieu-b-18,4,-0.486434172503172,1.370655683355,0.722670810397323
+met-d-bOHbutyrate,3-Hydroxybutyrate || id:met-d-bOHbutyrate,ieu-b-18,multiple sclerosis || id:ieu-b-18,7,1.56191664378091,1.17510600902247,0.183791612372573
+met-a-311,3-hydroxybutyrate (BHBA) || id:met-a-311,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,0,-0.793550952979113,2.04589654331163,0.698108962484675
+met-a-386,Phenylacetate || id:met-a-386,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,0,-4.64314039815914,4.38497747469532,0.289656983883478
+met-a-393,X-04499--3,4-dihydroxybutyrate || id:met-a-393,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,1,1.46510125118088,3.07266350590492,0.633491730806429
+met-a-420,2-hydroxybutyrate (AHB) || id:met-a-420,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,0,3.42532077544633,5.14873455623002,0.50587506560599
+met-a-421,3-methyl-2-oxobutyrate || id:met-a-421,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,0,-7.89928151428789,6.74449459607514,0.241510682668653
+met-a-427,2-hydroxyisobutyrate || id:met-a-427,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,3,-1.25227032369317,2.12023697350382,0.554770015672264
+met-a-446,Indoleacetate || id:met-a-446,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,2,0.809019672140691,2.03660810794969,0.69119140486431
+met-a-471,2-aminobutyrate || id:met-a-471,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,2,-1.1987662278717,3.18838802606977,0.706932674563757
+met-c-838,Acetoacetate || id:met-c-838,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,1,0.898705133695346,1.0573294139575,0.39533816266983
+met-c-839,Acetate || id:met-c-839,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,0,1.49111833898344,1.54670779278544,0.335016096830541
+met-c-846,3-hydroxybutyrate || id:met-c-846,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,0,-2.11522453725231,1.09206234361713,0.0527565626733322
+met-d-Acetate,Acetate || id:met-d-Acetate,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,5,-1.38477681547695,0.986587325068968,0.160437135643585
+met-d-Acetoacetate,Acetoacetate || id:met-d-Acetoacetate,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,7,-4.29069570571902,1.55410209705134,0.00576451364746631
+met-d-bOHbutyrate,3-Hydroxybutyrate || id:met-d-bOHbutyrate,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,10,4.37371847605041,1.49213585262193,0.00337677273287885
+met-a-311,3-hydroxybutyrate (BHBA) || id:met-a-311,ukb-b-17670,Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670,0,-0.0193621863729816,0.00388358288261808,6.17537339562662e-07
+met-a-386,Phenylacetate || id:met-a-386,ukb-b-17670,Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670,0,-0.00485516453671982,0.0045755569646108,0.288640381965196
+met-a-393,X-04499--3,4-dihydroxybutyrate || id:met-a-393,ukb-b-17670,Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670,0,-0.00800222716738521,0.016701122147491,0.631836841509671
+met-a-420,2-hydroxybutyrate (AHB) || id:met-a-420,ukb-b-17670,Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670,0,0.00596802489650459,0.0164932211024622,0.717466262540988
+met-a-421,3-methyl-2-oxobutyrate || id:met-a-421,ukb-b-17670,Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670,0,-0.0412455595686846,0.0121580325712897,0.000692697003070406
+met-a-427,2-hydroxyisobutyrate || id:met-a-427,ukb-b-17670,Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670,2,-0.00903571856862771,0.0043532843531838,0.0379300776496059
+met-a-471,2-aminobutyrate || id:met-a-471,ukb-b-17670,Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670,2,0.00481643426140308,0.00515463733026683,0.350103485812814
+met-c-846,3-hydroxybutyrate || id:met-c-846,ukb-b-17670,Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670,0,0.00216749225942053,0.00109464876991605,0.0476945274594816
+met-d-Acetate,Acetate || id:met-d-Acetate,ukb-b-17670,Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670,4,-0.00298357024172632,0.00178995577218715,0.095546183847632
+met-d-Acetoacetate,Acetoacetate || id:met-d-Acetoacetate,ukb-b-17670,Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670,2,-0.000675854533489172,0.00168519131741656,0.688379574205924
+met-d-bOHbutyrate,3-Hydroxybutyrate || id:met-d-bOHbutyrate,ukb-b-17670,Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670,4,0.00325929046258616,0.002703440599697,0.227968552088232

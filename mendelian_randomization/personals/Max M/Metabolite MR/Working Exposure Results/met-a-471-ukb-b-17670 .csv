@@ -1,0 +1,8 @@
+  id.exposure  id.outcome
+1   met-a-471 ukb-b-17670
+                                                                       outcome
+1 Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670
+                         exposure                    method nsnp           b          se
+1 2-aminobutyrate || id:met-a-471 Inverse variance weighted    2 0.002566839 0.008179788
+       pval
+1 0.7536709

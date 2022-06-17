@@ -1,0 +1,8 @@
+         id.exposure  id.outcome
+1 met-d-Acetoacetate ukb-b-17670
+                                                                       outcome
+1 Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670
+                               exposure                    method nsnp            b
+1 Acetoacetate || id:met-d-Acetoacetate Inverse variance weighted    2 0.0009487574
+           se     pval
+1 0.002387049 0.691028

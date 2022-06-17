@@ -1,0 +1,4 @@
+  id.exposure id.outcome                           outcome                        exposure
+1   met-a-471   ieu-b-18 multiple sclerosis || id:ieu-b-18 2-aminobutyrate || id:met-a-471
+                     method nsnp          b       se      pval
+1 Inverse variance weighted    2 -0.1661863 1.153513 0.8854454

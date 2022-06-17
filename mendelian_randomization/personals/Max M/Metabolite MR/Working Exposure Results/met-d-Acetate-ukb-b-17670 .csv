@@ -1,0 +1,24 @@
+    id.exposure  id.outcome
+1 met-d-Acetate ukb-b-17670
+2 met-d-Acetate ukb-b-17670
+3 met-d-Acetate ukb-b-17670
+4 met-d-Acetate ukb-b-17670
+5 met-d-Acetate ukb-b-17670
+                                                                       outcome
+1 Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670
+2 Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670
+3 Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670
+4 Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670
+5 Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670
+                     exposure                    method nsnp            b          se
+1 Acetate || id:met-d-Acetate                  MR Egger    5  0.005633329 0.025654017
+2 Acetate || id:met-d-Acetate           Weighted median    5 -0.002360507 0.002441323
+3 Acetate || id:met-d-Acetate Inverse variance weighted    5 -0.003433917 0.001912129
+4 Acetate || id:met-d-Acetate               Simple mode    5 -0.001805047 0.003179891
+5 Acetate || id:met-d-Acetate             Weighted mode    5 -0.001898690 0.003314732
+        pval
+1 0.84028434
+2 0.33359585
+3 0.07251664
+4 0.60062075
+5 0.59743801

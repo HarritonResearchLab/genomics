@@ -1,0 +1,18 @@
+        id.exposure   id.outcome                                            outcome
+1 met-d-bOHbutyrate finn-b-G6_MS MS-disease / Multiple Sclerosis || id:finn-b-G6_MS
+2 met-d-bOHbutyrate finn-b-G6_MS MS-disease / Multiple Sclerosis || id:finn-b-G6_MS
+3 met-d-bOHbutyrate finn-b-G6_MS MS-disease / Multiple Sclerosis || id:finn-b-G6_MS
+4 met-d-bOHbutyrate finn-b-G6_MS MS-disease / Multiple Sclerosis || id:finn-b-G6_MS
+5 met-d-bOHbutyrate finn-b-G6_MS MS-disease / Multiple Sclerosis || id:finn-b-G6_MS
+                                   exposure                    method nsnp           b
+1 3-Hydroxybutyrate || id:met-d-bOHbutyrate                  MR Egger   14 -1.48882996
+2 3-Hydroxybutyrate || id:met-d-bOHbutyrate           Weighted median   14 -0.28788637
+3 3-Hydroxybutyrate || id:met-d-bOHbutyrate Inverse variance weighted   14  0.05506124
+4 3-Hydroxybutyrate || id:met-d-bOHbutyrate               Simple mode   14 -0.48499089
+5 3-Hydroxybutyrate || id:met-d-bOHbutyrate             Weighted mode   14 -0.43972595
+         se      pval
+1 0.9657129 0.1490963
+2 0.4744851 0.5440273
+3 0.3503961 0.8751345
+4 0.6930709 0.4964022
+5 0.5872402 0.4673101

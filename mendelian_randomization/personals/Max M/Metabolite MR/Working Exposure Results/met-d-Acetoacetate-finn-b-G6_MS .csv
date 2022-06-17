@@ -1,0 +1,18 @@
+         id.exposure   id.outcome                                            outcome
+1 met-d-Acetoacetate finn-b-G6_MS MS-disease / Multiple Sclerosis || id:finn-b-G6_MS
+2 met-d-Acetoacetate finn-b-G6_MS MS-disease / Multiple Sclerosis || id:finn-b-G6_MS
+3 met-d-Acetoacetate finn-b-G6_MS MS-disease / Multiple Sclerosis || id:finn-b-G6_MS
+4 met-d-Acetoacetate finn-b-G6_MS MS-disease / Multiple Sclerosis || id:finn-b-G6_MS
+5 met-d-Acetoacetate finn-b-G6_MS MS-disease / Multiple Sclerosis || id:finn-b-G6_MS
+                               exposure                    method nsnp          b        se
+1 Acetoacetate || id:met-d-Acetoacetate                  MR Egger    7 -0.5044815 1.7199858
+2 Acetoacetate || id:met-d-Acetoacetate           Weighted median    7 -0.6623326 0.6285293
+3 Acetoacetate || id:met-d-Acetoacetate Inverse variance weighted    7 -0.6589296 0.5037849
+4 Acetoacetate || id:met-d-Acetoacetate               Simple mode    7 -0.8803517 0.7854529
+5 Acetoacetate || id:met-d-Acetoacetate             Weighted mode    7 -0.6968124 0.7708574
+       pval
+1 0.7810723
+2 0.2919829
+3 0.1908875
+4 0.3052104
+5 0.4008603

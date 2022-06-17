@@ -1,0 +1,6 @@
+  id.exposure   id.outcome                                            outcome
+1   met-a-471 finn-b-G6_MS MS-disease / Multiple Sclerosis || id:finn-b-G6_MS
+                         exposure                    method nsnp         b       se
+1 2-aminobutyrate || id:met-a-471 Inverse variance weighted    2 0.4407965 2.056665
+       pval
+1 0.8302929

@@ -1,0 +1,12 @@
+    id.exposure id.outcome                           outcome                    exposure
+1 met-d-Acetate   ieu-b-18 multiple sclerosis || id:ieu-b-18 Acetate || id:met-d-Acetate
+2 met-d-Acetate   ieu-b-18 multiple sclerosis || id:ieu-b-18 Acetate || id:met-d-Acetate
+3 met-d-Acetate   ieu-b-18 multiple sclerosis || id:ieu-b-18 Acetate || id:met-d-Acetate
+4 met-d-Acetate   ieu-b-18 multiple sclerosis || id:ieu-b-18 Acetate || id:met-d-Acetate
+5 met-d-Acetate   ieu-b-18 multiple sclerosis || id:ieu-b-18 Acetate || id:met-d-Acetate
+                     method nsnp         b        se       pval
+1                  MR Egger    5 1.3552400 1.4106332 0.40756035
+2           Weighted median    5 0.4869136 0.2511474 0.05253103
+3 Inverse variance weighted    5 0.2070283 0.5362409 0.69944242
+4               Simple mode    5 0.4172330 0.3139804 0.25463243
+5             Weighted mode    5 0.5241545 0.2632323 0.11728650

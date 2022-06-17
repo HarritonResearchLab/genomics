@@ -1,0 +1,18 @@
+  id.exposure id.outcome                           outcome
+1   met-a-427   ieu-b-18 multiple sclerosis || id:ieu-b-18
+2   met-a-427   ieu-b-18 multiple sclerosis || id:ieu-b-18
+3   met-a-427   ieu-b-18 multiple sclerosis || id:ieu-b-18
+4   met-a-427   ieu-b-18 multiple sclerosis || id:ieu-b-18
+5   met-a-427   ieu-b-18 multiple sclerosis || id:ieu-b-18
+                              exposure                    method nsnp           b        se
+1 2-hydroxyisobutyrate || id:met-a-427                  MR Egger    3 -0.29449065 2.8915930
+2 2-hydroxyisobutyrate || id:met-a-427           Weighted median    3  0.11094100 0.6432371
+3 2-hydroxyisobutyrate || id:met-a-427 Inverse variance weighted    3  0.36779444 0.8518112
+4 2-hydroxyisobutyrate || id:met-a-427               Simple mode    3 -0.31264218 0.8450995
+5 2-hydroxyisobutyrate || id:met-a-427             Weighted mode    3 -0.01122388 0.6660987
+       pval
+1 0.9353870
+2 0.8630657
+3 0.6659018
+4 0.7469236
+5 0.9880860

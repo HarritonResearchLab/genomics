@@ -1,0 +1,18 @@
+         id.exposure id.outcome                           outcome
+1 met-d-Acetoacetate   ieu-b-18 multiple sclerosis || id:ieu-b-18
+2 met-d-Acetoacetate   ieu-b-18 multiple sclerosis || id:ieu-b-18
+3 met-d-Acetoacetate   ieu-b-18 multiple sclerosis || id:ieu-b-18
+4 met-d-Acetoacetate   ieu-b-18 multiple sclerosis || id:ieu-b-18
+5 met-d-Acetoacetate   ieu-b-18 multiple sclerosis || id:ieu-b-18
+                               exposure                    method nsnp         b        se
+1 Acetoacetate || id:met-d-Acetoacetate                  MR Egger    4 0.3120996 1.2022291
+2 Acetoacetate || id:met-d-Acetoacetate           Weighted median    4 0.5495853 0.3880628
+3 Acetoacetate || id:met-d-Acetoacetate Inverse variance weighted    4 0.9050631 0.3933805
+4 Acetoacetate || id:met-d-Acetoacetate               Simple mode    4 0.4916793 0.5342360
+5 Acetoacetate || id:met-d-Acetoacetate             Weighted mode    4 0.4866645 0.5452475
+        pval
+1 0.81945123
+2 0.15670884
+3 0.02140679
+4 0.42526920
+5 0.43785519

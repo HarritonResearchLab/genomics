@@ -15,6 +15,14 @@ out_11 <- extract_outcome_data(snps = expo_11$SNP, outcomes = "ieu-b-18")
 hm_data <- harmonise_data(expo_11, out_11)
 mr_data <- mr(hm_data, method_list = c("mr_egger_regression", "mr_weighted_median", "mr_ivw", "mr_weighted_mode"))
 mr_data <- mr(hm_data)
+
+if(dim(mr_data)[1] == 0){
+  print('nothing here')
+}else if (dim(mr_data)[1] == 1){
+  print("data exists one row")
+}else if (dim(mr_data)[1] != 0){
+  print("data exists")
+}
 # questions appears here ***************************************
 
 intercept_data <- mr_pleiotropy_test(hm_data)

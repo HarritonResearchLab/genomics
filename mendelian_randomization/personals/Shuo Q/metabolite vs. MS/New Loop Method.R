@@ -15,6 +15,7 @@ for(i in 1:length(exposures)){
   expo_data <- extract_instruments(exposures[i])
   out_data <- extract_outcome_data(snps = expo_data$SNP, outcomes = outcomes[1])
   
+  # check if there are enough SNPs
   if(is.null(expo_data)){
     print("exposure data missing")
     next
@@ -22,7 +23,7 @@ for(i in 1:length(exposures)){
     print("outcome data missing")
     next
   }else{
-    print("expo ok")
+    print("expo out ok")
   }
   
   print(exposures[i])
@@ -42,7 +43,11 @@ for(i in 1:length(exposures)){
   
   # plots
   plot <- mr_scatter_plot(mr_data, hm_data)
-  plot[[1]]
+  
+  # save plots
+  png(paste("plot_",exposures[i],"vs. ",outcomes[1] , ".png", sep = ""), width = 600, height = 500, res = 120)
+  print(plot[[1]])
+  dev.off()
   
   print("===================== plot done =====================")
   
@@ -128,6 +133,7 @@ for(i in 1:length(exposures)){
   expo_data <- extract_instruments(exposures[i])
   out_data <- extract_outcome_data(snps = expo_data$SNP, outcomes = outcomes[2])
   
+  # check if there are enough SNPs
   if(is.null(expo_data)){
     print("exposure data missing")
     next
@@ -135,7 +141,7 @@ for(i in 1:length(exposures)){
     print("outcome data missing")
     next
   }else{
-    print("expo ok")
+    print("expo out ok")
   }
   
   print(exposures[i])
@@ -155,7 +161,11 @@ for(i in 1:length(exposures)){
   
   # plots
   plot <- mr_scatter_plot(mr_data, hm_data)
-  plot[[1]]
+  
+  # save plots
+  png(paste("plot_",exposures[i],"vs. ",outcomes[1] , ".png", sep = ""), width = 600, height = 500, res = 120)
+  print(plot[[1]])
+  dev.off()
   
   print("===================== plot done =====================")
   
@@ -241,6 +251,7 @@ for(i in 1:length(exposures)){
   expo_data <- extract_instruments(exposures[i])
   out_data <- extract_outcome_data(snps = expo_data$SNP, outcomes = outcomes[3])
   
+  # check if there are enough SNPs
   if(is.null(expo_data)){
     print("exposure data missing")
     next
@@ -248,7 +259,7 @@ for(i in 1:length(exposures)){
     print("outcome data missing")
     next
   }else{
-    print("expo ok")
+    print("expo out ok")
   }
   
   
@@ -269,7 +280,11 @@ for(i in 1:length(exposures)){
   
   # plots
   plot <- mr_scatter_plot(mr_data, hm_data)
-  plot[[1]]
+  
+  # save plots
+  png(paste("plot_",exposures[i],"vs. ",outcomes[1] , ".png", sep = ""), width = 600, height = 500, res = 120)
+  print(plot[[1]])
+  dev.off()
   
   print("===================== plot done =====================")
   

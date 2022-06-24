@@ -10,11 +10,13 @@ outcomes <- c("ieu-b-18", "finn-b-G6_MS", "ukb-b-17670")
 # 1. 3-Hydroxybutyrate: met-d-bOHbutyrate , met-c-846 , met-a-311
 # multiple sclerosis: ieu-b-18 ; GWAS in Finnish: finn-b-G6_MS ; GWAS in UK Biobank: ukb-b-17670
 
-expo_11 <- extract_instruments("met-d-bOHbutyrate")
-expo_11 <- extract_instruments("met-d-bOHbutyrate")
+expo_11 <- extract_instruments("met-c-838")
 out_11 <- extract_outcome_data(snps = expo_11$SNP, outcomes = "ieu-b-18")
 hm_data <- harmonise_data(expo_11, out_11)
+mr_data <- mr(hm_data, method_list = c("mr_egger_regression", "mr_weighted_median", "mr_ivw", "mr_weighted_mode"))
 mr_data <- mr(hm_data)
+# questions appears here ***************************************
+
 intercept_data <- mr_pleiotropy_test(hm_data)
 het_data <- mr_heterogeneity(hm_data)
 

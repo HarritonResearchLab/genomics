@@ -1,3 +1,0 @@
-"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
-"ebi-a-GCST005367","ukb-b-17670","Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670","Vitamin D levels || id:ebi-a-GCST005367","MR Egger",3.86637581125473,3,0.27625933774836
-"ebi-a-GCST005367","ukb-b-17670","Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670","Vitamin D levels || id:ebi-a-GCST005367","Inverse variance weighted",10.7193049755718,4,0.0299065202974066

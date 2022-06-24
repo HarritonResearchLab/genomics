@@ -1,3 +1,0 @@
-"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
-"ieu-b-40","finn-b-G6_MS","MS-disease / Multiple Sclerosis || id:finn-b-G6_MS","body mass index || id:ieu-b-40","MR Egger",434.465893767468,479,0.928443471656575
-"ieu-b-40","finn-b-G6_MS","MS-disease / Multiple Sclerosis || id:finn-b-G6_MS","body mass index || id:ieu-b-40","Inverse variance weighted",434.888317838061,480,0.93090560992249

@@ -1,6 +1,0 @@
-"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
-"ebi-a-GCST005367","finn-b-G6_MS","MS-disease / Multiple Sclerosis || id:finn-b-G6_MS","Vitamin D levels || id:ebi-a-GCST005367","MR Egger",6,-1.23334930074184,2.57017362883051,0.65638040367039
-"ebi-a-GCST005367","finn-b-G6_MS","MS-disease / Multiple Sclerosis || id:finn-b-G6_MS","Vitamin D levels || id:ebi-a-GCST005367","Weighted median",6,-1.97236543047764,0.983462044633076,0.0449061132455642
-"ebi-a-GCST005367","finn-b-G6_MS","MS-disease / Multiple Sclerosis || id:finn-b-G6_MS","Vitamin D levels || id:ebi-a-GCST005367","Inverse variance weighted",6,-2.00857695647054,0.771814578867167,0.00925714662557013
-"ebi-a-GCST005367","finn-b-G6_MS","MS-disease / Multiple Sclerosis || id:finn-b-G6_MS","Vitamin D levels || id:ebi-a-GCST005367","Simple mode",6,-2.5303609169449,1.60077766550608,0.174784917824351
-"ebi-a-GCST005367","finn-b-G6_MS","MS-disease / Multiple Sclerosis || id:finn-b-G6_MS","Vitamin D levels || id:ebi-a-GCST005367","Weighted mode",6,-1.97781981153486,1.21416966784746,0.164252697623036

@@ -1,3 +1,0 @@
-"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
-"ebi-a-GCST005367","ieu-b-18","multiple sclerosis || id:ieu-b-18","Vitamin D levels || id:ebi-a-GCST005367","MR Egger",3.63017832140713,4,0.458362361128317
-"ebi-a-GCST005367","ieu-b-18","multiple sclerosis || id:ieu-b-18","Vitamin D levels || id:ebi-a-GCST005367","Inverse variance weighted",3.64497188730725,5,0.601573860839029

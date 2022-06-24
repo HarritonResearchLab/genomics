@@ -1,6 +1,0 @@
-"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
-"ieu-b-40","finn-b-G6_MS","MS-disease / Multiple Sclerosis || id:finn-b-G6_MS","body mass index || id:ieu-b-40","MR Egger",481,0.333443193504664,0.377563322217343,0.377600895766114
-"ieu-b-40","finn-b-G6_MS","MS-disease / Multiple Sclerosis || id:finn-b-G6_MS","body mass index || id:ieu-b-40","Weighted median",481,-0.101417087216772,0.257823580835263,0.694054744550286
-"ieu-b-40","finn-b-G6_MS","MS-disease / Multiple Sclerosis || id:finn-b-G6_MS","body mass index || id:ieu-b-40","Inverse variance weighted",481,0.106310978194645,0.142926100107822,0.456986706391985
-"ieu-b-40","finn-b-G6_MS","MS-disease / Multiple Sclerosis || id:finn-b-G6_MS","body mass index || id:ieu-b-40","Simple mode",481,0.318538255742054,0.758956289810133,0.674888271663936
-"ieu-b-40","finn-b-G6_MS","MS-disease / Multiple Sclerosis || id:finn-b-G6_MS","body mass index || id:ieu-b-40","Weighted mode",481,0.0883390255790228,0.471375699063251,0.851420858215891

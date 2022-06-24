@@ -1,6 +1,0 @@
-"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
-"ebi-a-GCST005367","ieu-b-18","multiple sclerosis || id:ieu-b-18","Vitamin D levels || id:ebi-a-GCST005367","MR Egger",6,-1.30016323427471,1.06462210805546,0.289050837281839
-"ebi-a-GCST005367","ieu-b-18","multiple sclerosis || id:ieu-b-18","Vitamin D levels || id:ebi-a-GCST005367","Weighted median",6,-1.16441615216551,0.383554884686315,0.00239856469658646
-"ebi-a-GCST005367","ieu-b-18","multiple sclerosis || id:ieu-b-18","Vitamin D levels || id:ebi-a-GCST005367","Inverse variance weighted",6,-1.17646586648487,0.31482790632223,0.000186337173937299
-"ebi-a-GCST005367","ieu-b-18","multiple sclerosis || id:ieu-b-18","Vitamin D levels || id:ebi-a-GCST005367","Simple mode",6,-1.1375677090255,0.511883914094624,0.0769040375178395
-"ebi-a-GCST005367","ieu-b-18","multiple sclerosis || id:ieu-b-18","Vitamin D levels || id:ebi-a-GCST005367","Weighted mode",6,-1.15511838075897,0.429352903447551,0.0432794931833854

@@ -175,40 +175,6 @@ for(i in 1:length(exposures)){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # reform table
 reformed_table <- data.frame(
   GWAS_ID = exposures[i],

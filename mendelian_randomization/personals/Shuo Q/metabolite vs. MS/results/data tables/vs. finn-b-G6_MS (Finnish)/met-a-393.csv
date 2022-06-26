@@ -1,0 +1,2 @@
+"GWAS_ID","b_IVW_MRE","se_IVW_MRE","pval_IVW_MRE","b_Egger","se_Egger","pval_Egger","Egger_intercept","pval_intercept","Het_IVW_pval","Het_Egger_pval","b_W_Med","se_W_Med","pval_W_Med","b_W_Mod","se_W_Mod","pval_W_Mod","nsnps"
+"met-a-393",NA,NA,NA,1.72398190045249,2.73303167420814,0.528174767969589,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1

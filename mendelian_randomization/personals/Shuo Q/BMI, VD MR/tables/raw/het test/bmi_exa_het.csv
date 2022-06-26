@@ -1,3 +1,0 @@
-"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
-"ieu-b-40","ieu-b-18","multiple sclerosis || id:ieu-b-18","body mass index || id:ieu-b-40","MR Egger",739.750777238893,445,5.0807362047758e-17
-"ieu-b-40","ieu-b-18","multiple sclerosis || id:ieu-b-18","body mass index || id:ieu-b-40","Inverse variance weighted",739.952615488452,446,6.31340869268359e-17

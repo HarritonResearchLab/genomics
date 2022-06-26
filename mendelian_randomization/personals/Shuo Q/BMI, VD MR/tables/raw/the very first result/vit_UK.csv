@@ -1,6 +1,0 @@
-"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
-"ebi-a-GCST005367","ukb-b-17670","Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670","Vitamin D levels || id:ebi-a-GCST005367","MR Egger",5,0.0108208401416868,0.00889874925398289,0.310940152093602
-"ebi-a-GCST005367","ukb-b-17670","Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670","Vitamin D levels || id:ebi-a-GCST005367","Weighted median",5,-0.0105440301882095,0.00351299976155329,0.00268712975562909
-"ebi-a-GCST005367","ukb-b-17670","Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670","Vitamin D levels || id:ebi-a-GCST005367","Inverse variance weighted",5,-0.00863119971042421,0.00408558636572844,0.0346352293613158
-"ebi-a-GCST005367","ukb-b-17670","Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670","Vitamin D levels || id:ebi-a-GCST005367","Simple mode",5,-0.0117444267878753,0.00603113566021275,0.123338969958081
-"ebi-a-GCST005367","ukb-b-17670","Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670","Vitamin D levels || id:ebi-a-GCST005367","Weighted mode",5,-0.0117444267878753,0.00589612103673942,0.117197185120132

@@ -1,0 +1,33 @@
+Bradykinin, des-arg(9) || id:met-a-656
+Glycine || id:met-d-Gly
+Valine || id:met-c-940
+Citrate || id:met-c-849
+Glutamine || id:met-d-Gln
+Tyrosine || id:met-c-938
+Alanine || id:met-d-Ala
+Histidine || id:met-c-866
+Creatinine || id:met-d-Creatinine
+Alanine || id:met-c-840
+Citrate || id:met-d-Citrate
+Lactate || id:met-d-Lactate
+Citrulline || id:met-a-356
+Cis-4-decenoyl carnitine || id:met-a-753
+Tyrosine || id:met-d-Tyr
+Hexanoylcarnitine || id:met-a-467
+Creatinine || id:met-c-850
+Acetylcarnitine || id:met-a-463
+Valine || id:met-d-Val
+Histidine || id:met-d-His
+Glutamine || id:met-c-860
+Isobutyrylcarnitine || id:met-a-573
+Lactate || id:met-c-894
+Isovalerylcarnitine || id:met-a-652
+Citrate || id:met-a-341
+Tyrosine || id:met-a-325
+Carnitine || id:met-a-379
+Tryptophan || id:met-a-304
+Gamma-glutamyltyrosine || id:met-a-360
+Alanine || id:met-a-469
+Bradykinin, des-arg(9) || id:met-a-656
+Uridine || id:met-a-316
+Alanine || id:met-a-469

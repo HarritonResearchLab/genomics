@@ -1,0 +1,282 @@
+id_exposure,id_outcome,outcome,exposure,method,nsnp,b,se,pval
+met-a-316,ieu-b-18,multiple sclerosis || id:ieu-b-18,Uridine || id:met-a-316,Inverse variance weighted,3,4.72471141531775,1.7705538190006598,0.0076192245364086
+met-a-316,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Uridine || id:met-a-316,Inverse variance weighted,3,6.65466954185892,2.8798836616658394,0.0208470828129961
+met-d-Ala,ieu-b-18,multiple sclerosis || id:ieu-b-18,Alanine || id:met-d-Ala,MR Egger,25,0.7442140678305641,0.317092384797164,0.0279046603183266
+met-d-Lactate,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Lactate || id:met-d-Lactate,Inverse variance weighted,12,1.03385035761577,0.47103635284523904,0.0281749355281559
+met-a-316,ieu-b-18,multiple sclerosis || id:ieu-b-18,Uridine || id:met-a-316,Weighted median,3,2.99527792433812,1.45532392218227,0.0395755391597363
+met-a-652,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Isovalerylcarnitine || id:met-a-652,Inverse variance weighted,3,1.786542724198,0.871600947132141,0.040391221018502
+met-c-866,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Histidine || id:met-c-866,Inverse variance weighted,5,0.521151696792319,0.26815627256776703,0.0519602854496657
+met-c-850,ieu-b-18,multiple sclerosis || id:ieu-b-18,Creatinine || id:met-c-850,Inverse variance weighted,4,-0.261724427939476,0.138221633261246,0.058289711367058
+met-a-316,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Uridine || id:met-a-316,Weighted median,3,6.3146617085759695,3.3540036491268097,0.0597378401396228
+met-c-850,ieu-b-18,multiple sclerosis || id:ieu-b-18,Creatinine || id:met-c-850,Weighted median,4,-0.28402298530836895,0.152911199958465,0.0632489462870512
+met-a-356,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Citrulline || id:met-a-356,Weighted median,4,-5.985785162808581,3.2550694408965897,0.0659281798956929
+met-a-652,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Isovalerylcarnitine || id:met-a-652,Weighted median,3,1.72914760328666,0.9907680701713779,0.0809396702759621
+met-a-656,ieu-b-18,multiple sclerosis || id:ieu-b-18,"Bradykinin, des-arg(9) || id:met-a-656",Inverse variance weighted,3,0.134063028713027,0.0773877027452691,0.0832102486216989
+met-d-Lactate,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Lactate || id:met-d-Lactate,Weighted median,12,0.985290426487779,0.5721973996115699,0.0850801232619439
+met-a-467,ieu-b-18,multiple sclerosis || id:ieu-b-18,Hexanoylcarnitine || id:met-a-467,Inverse variance weighted,3,0.390558525464359,0.22848837801351,0.0873926862730642
+met-a-356,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Citrulline || id:met-a-356,MR Egger,4,120.91964529013201,40.1823608434849,0.0949596057942466
+met-c-866,ieu-b-18,multiple sclerosis || id:ieu-b-18,Histidine || id:met-c-866,Weighted median,4,0.240075069639743,0.14684068473227,0.102062539120504
+met-a-463,ieu-b-18,multiple sclerosis || id:ieu-b-18,Acetylcarnitine || id:met-a-463,Wald ratio,1,1.4971477272727298,0.9488522727272729,0.114599790933821
+met-a-467,ieu-b-18,multiple sclerosis || id:ieu-b-18,Hexanoylcarnitine || id:met-a-467,Weighted median,3,0.35915814322175005,0.24144781280728697,0.13687786082209402
+met-a-656,ieu-b-18,multiple sclerosis || id:ieu-b-18,"Bradykinin, des-arg(9) || id:met-a-656",Weighted median,3,0.12381342766125301,0.0841418946768058,0.14116034875337302
+met-a-656,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,"Bradykinin, des-arg(9) || id:met-a-656",Weighted median,3,0.33259406182469303,0.22702195607601103,0.14291263024818
+met-a-356,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Citrulline || id:met-a-356,Simple mode,4,-8.990438799590802,4.596845135573241,0.14544947443960402
+met-d-Val,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Valine || id:met-d-Val,MR Egger,19,0.698841513951464,0.466301735262398,0.152293992450159
+met-c-850,ieu-b-18,multiple sclerosis || id:ieu-b-18,Creatinine || id:met-c-850,Weighted mode,4,-0.44655815758119,0.234538611230601,0.153029403927561
+met-d-Gly,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Glycine || id:met-d-Gly,Weighted mode,43,-0.12951542990777698,0.0896935652295261,0.156164158854142
+met-a-656,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,"Bradykinin, des-arg(9) || id:met-a-656",Weighted median,3,0.33259406182469303,0.23522945283004898,0.15738734799579
+met-d-Gly,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Glycine || id:met-d-Gly,Weighted median,43,-0.12108877882109402,0.0858127896744733,0.158220794345509
+met-c-940,ieu-b-18,multiple sclerosis || id:ieu-b-18,Valine || id:met-c-940,Weighted mode,4,0.26268755707768204,0.141041919743983,0.15943751949378399
+met-a-316,ieu-b-18,multiple sclerosis || id:ieu-b-18,Uridine || id:met-a-316,MR Egger,3,16.664349525744697,4.534618889364791,0.16913844205672499
+met-d-Tyr,ieu-b-18,multiple sclerosis || id:ieu-b-18,Tyrosine || id:met-d-Tyr,Weighted median,23,-0.154919104702236,0.112673514516425,0.16915064502866
+met-a-379,ieu-b-18,multiple sclerosis || id:ieu-b-18,Carnitine || id:met-a-379,Weighted mode,16,0.9927929532725981,0.6910339767174621,0.171339273222327
+met-d-Val,ieu-b-18,multiple sclerosis || id:ieu-b-18,Valine || id:met-d-Val,Inverse variance weighted,14,0.201932165768577,0.148452503757346,0.173751576032104
+met-c-866,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Histidine || id:met-c-866,Weighted median,5,0.4795461693199629,0.355933930159968,0.17788690165918303
+met-c-850,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Creatinine || id:met-c-850,Inverse variance weighted,6,-0.37882876940548704,0.282740920165157,0.180296016840338
+met-a-753,ieu-b-18,multiple sclerosis || id:ieu-b-18,Cis-4-decenoyl carnitine || id:met-a-753,Inverse variance weighted,2,0.358049873069029,0.267306943530196,0.180417420648523
+met-a-316,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Uridine || id:met-a-316,Simple mode,3,9.5229647522482,4.73244027030021,0.18184339099010602
+met-c-940,ieu-b-18,multiple sclerosis || id:ieu-b-18,Valine || id:met-c-940,MR Egger,4,1.42705442871222,0.7262435558342389,0.18835356068415698
+met-a-304,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Tryptophan || id:met-a-304,Weighted median,18,3.7848274660047,2.8813213166702205,0.188989755132602
+met-a-356,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Citrulline || id:met-a-356,Weighted mode,4,-8.41880019178249,5.17496888766108,0.20225033870701398
+met-d-His,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Histidine || id:met-d-His,MR Egger,15,1.2969050760068501,0.98606839467209,0.21115995905961105
+met-a-341,ieu-b-18,multiple sclerosis || id:ieu-b-18,Citrate || id:met-a-341,MR Egger,6,-2.83055373505874,1.93840579052762,0.21800552702743203
+met-d-Gln,ieu-b-18,multiple sclerosis || id:ieu-b-18,Glutamine || id:met-d-Gln,Simple mode,30,0.23570940719799102,0.187808971774826,0.21948108052807302
+met-a-652,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Isovalerylcarnitine || id:met-a-652,Simple mode,3,2.46745033876278,1.3994351253550101,0.219924477278874
+met-a-379,ieu-b-18,multiple sclerosis || id:ieu-b-18,Carnitine || id:met-a-379,Weighted median,16,0.926303885381587,0.757103098572324,0.22114676528785698
+met-d-Tyr,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Tyrosine || id:met-d-Tyr,MR Egger,31,0.36602105454633704,0.296359480831013,0.22672217924954602
+met-a-325,ieu-b-18,multiple sclerosis || id:ieu-b-18,Tyrosine || id:met-a-325,Weighted median,3,-1.48147118974998,1.22712481564727,0.22732811312980603
+met-d-Tyr,ieu-b-18,multiple sclerosis || id:ieu-b-18,Tyrosine || id:met-d-Tyr,Weighted mode,23,-0.12985737840655198,0.10547399224442501,0.231255872326557
+met-c-940,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Valine || id:met-c-940,Inverse variance weighted,5,0.29530042582276195,0.255142209992866,0.247110843557261
+met-d-Val,ieu-b-18,multiple sclerosis || id:ieu-b-18,Valine || id:met-d-Val,Weighted median,14,0.16250187326019197,0.14287286220330403,0.255376138319955
+met-c-866,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Histidine || id:met-c-866,Weighted mode,5,0.6184096791689039,0.469885808130652,0.25849866867025
+met-a-656,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,"Bradykinin, des-arg(9) || id:met-a-656",MR Egger,3,1.5911341946479398,0.6851696783225849,0.258861561880816
+met-a-656,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,"Bradykinin, des-arg(9) || id:met-a-656",MR Egger,3,1.5911341946479398,0.6851696783225849,0.258861561880816
+met-a-379,ieu-b-18,multiple sclerosis || id:ieu-b-18,Carnitine || id:met-a-379,Simple mode,16,1.3565578723045302,1.1639308203608998,0.262017282690424
+met-c-866,ieu-b-18,multiple sclerosis || id:ieu-b-18,Histidine || id:met-c-866,Weighted mode,4,0.220134983820193,0.161057634307937,0.26510229298487803
+met-a-656,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,"Bradykinin, des-arg(9) || id:met-a-656",Weighted mode,3,0.3544591280796961,0.235291163306354,0.270921224955936
+met-c-866,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Histidine || id:met-c-866,Simple mode,5,0.57224119278113,0.45207382678315206,0.274284900752857
+met-c-940,ieu-b-18,multiple sclerosis || id:ieu-b-18,Valine || id:met-c-940,Weighted median,4,0.138958091254557,0.12829601556800801,0.278761697756412
+met-a-656,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,"Bradykinin, des-arg(9) || id:met-a-656",Weighted mode,3,0.3544591280796961,0.241590516580053,0.280014350065449
+met-a-304,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Tryptophan || id:met-a-304,Weighted mode,18,5.90784186945346,5.3121407526773705,0.281558805157658
+met-a-652,ieu-b-18,multiple sclerosis || id:ieu-b-18,Isovalerylcarnitine || id:met-a-652,MR Egger,3,9.21723143787278,4.38644041299595,0.28277304387074204
+met-c-866,ieu-b-18,multiple sclerosis || id:ieu-b-18,Histidine || id:met-c-866,MR Egger,4,-1.79312200932581,1.2745461087241698,0.294736015891613
+met-a-379,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Carnitine || id:met-a-379,Simple mode,17,5.7343514653670296,5.30755975303008,0.29597586084709904
+met-c-938,ieu-b-18,multiple sclerosis || id:ieu-b-18,Tyrosine || id:met-c-938,Weighted median,3,-0.14822659509939498,0.141841921776401,0.29601714730035605
+met-a-304,ieu-b-18,multiple sclerosis || id:ieu-b-18,Tryptophan || id:met-a-304,Inverse variance weighted,17,-0.872033457228502,0.835756065903708,0.29675998369001
+met-d-Gly,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Glycine || id:met-d-Gly,MR Egger,43,-0.11955891914927302,0.113560825589283,0.298589725495548
+met-a-467,ieu-b-18,multiple sclerosis || id:ieu-b-18,Hexanoylcarnitine || id:met-a-467,Weighted mode,3,0.340236499712144,0.24757295185742698,0.30308899214814505
+met-a-467,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Hexanoylcarnitine || id:met-a-467,MR Egger,4,-1.68580881181929,1.2394487958254,0.30680996209476596
+met-a-316,ieu-b-18,multiple sclerosis || id:ieu-b-18,Uridine || id:met-a-316,Simple mode,3,2.44297671162174,1.80771067642968,0.30912604374502195
+met-d-Creatinine,ieu-b-18,multiple sclerosis || id:ieu-b-18,Creatinine || id:met-d-Creatinine,Inverse variance weighted,55,-0.254135280334892,0.251139084090524,0.311571320347269
+met-c-940,ieu-b-18,multiple sclerosis || id:ieu-b-18,Valine || id:met-c-940,Inverse variance weighted,4,0.12333554680266802,0.12218663788941901,0.312781447534703
+met-a-379,ieu-b-18,multiple sclerosis || id:ieu-b-18,Carnitine || id:met-a-379,MR Egger,16,1.73339477012738,1.6718332298864698,0.31739588312512396
+met-a-652,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Isovalerylcarnitine || id:met-a-652,Weighted mode,3,1.6693039559377199,1.27582524646503,0.320884293501268
+met-a-463,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Acetylcarnitine || id:met-a-463,Inverse variance weighted,2,1.64567768190182,1.6648181949372602,0.322906394818648
+met-a-304,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Tryptophan || id:met-a-304,Simple mode,18,5.48269998980844,5.40814029646718,0.32489702177671
+met-a-656,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,"Bradykinin, des-arg(9) || id:met-a-656",Simple mode,3,0.3544591280796961,0.27406871698108604,0.32513791094889505
+met-c-849,ieu-b-18,multiple sclerosis || id:ieu-b-18,Citrate || id:met-c-849,MR Egger,4,1.01683115340351,0.788336148532885,0.32612786535197497
+met-a-656,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,"Bradykinin, des-arg(9) || id:met-a-656",Simple mode,3,0.3544591280796961,0.279462046533726,0.332324631346365
+met-a-316,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Uridine || id:met-a-316,Weighted mode,3,4.49242282149996,3.56934000917431,0.33518314223381895
+met-a-316,ieu-b-18,multiple sclerosis || id:ieu-b-18,Uridine || id:met-a-316,Weighted mode,3,2.4286139251195,1.9329410261809798,0.335826399043375
+met-c-866,ieu-b-18,multiple sclerosis || id:ieu-b-18,Histidine || id:met-c-866,Simple mode,4,0.223862838188503,0.199419938978624,0.343357272491218
+met-c-940,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Valine || id:met-c-940,MR Egger,5,-1.54228649078645,1.39400340986382,0.349312561476564
+met-a-356,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Citrulline || id:met-a-356,Inverse variance weighted,4,-4.02883136613488,4.3181995025672295,0.350825799659646
+met-d-Creatinine,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Creatinine || id:met-d-Creatinine,Inverse variance weighted,68,-0.26046808518633896,0.281815353694259,0.35535571693763396
+met-d-Gln,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Glutamine || id:met-d-Gln,MR Egger,40,0.205491834325145,0.22002357079025303,0.356224802719524
+met-d-Citrate,ieu-b-18,multiple sclerosis || id:ieu-b-18,Citrate || id:met-d-Citrate,Simple mode,26,0.159871846774577,0.170542520724762,0.35750555277459295
+met-d-Ala,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Alanine || id:met-d-Ala,MR Egger,32,-0.6113993497282111,0.654982862939629,0.35803596153177203
+met-a-304,ieu-b-18,multiple sclerosis || id:ieu-b-18,Tryptophan || id:met-a-304,MR Egger,17,10.4260458677304,11.045359467055599,0.360162286372445
+met-a-304,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Tryptophan || id:met-a-304,Inverse variance weighted,18,1.87539598703444,2.05442793785538,0.36131850727236403
+met-a-652,ieu-b-18,multiple sclerosis || id:ieu-b-18,Isovalerylcarnitine || id:met-a-652,Weighted median,3,0.31983836343882693,0.35180423466945904,0.363277638602366
+met-a-656,ieu-b-18,multiple sclerosis || id:ieu-b-18,"Bradykinin, des-arg(9) || id:met-a-656",Weighted mode,3,0.11220213204145402,0.0968867093960028,0.366437259820678
+met-d-His,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Histidine || id:met-d-His,Weighted mode,15,0.5051380762969729,0.5432796849613529,0.368233534954496
+met-c-940,ieu-b-18,multiple sclerosis || id:ieu-b-18,Valine || id:met-c-940,Simple mode,4,0.25666170294949303,0.243008232652825,0.3684161197088329
+met-c-860,ieu-b-18,multiple sclerosis || id:ieu-b-18,Glutamine || id:met-c-860,Simple mode,5,-0.16605212266359198,0.166557234252426,0.37520493859186893
+met-c-866,ieu-b-18,multiple sclerosis || id:ieu-b-18,Histidine || id:met-c-866,Inverse variance weighted,4,0.114635925350146,0.12962453033331,0.37649701389304996
+met-c-860,ieu-b-18,multiple sclerosis || id:ieu-b-18,Glutamine || id:met-c-860,Weighted mode,5,-0.0863639228074934,0.0872667612341027,0.37836565531331
+met-d-His,ieu-b-18,multiple sclerosis || id:ieu-b-18,Histidine || id:met-d-His,MR Egger,11,0.352334737526967,0.381955330179791,0.38035826793922795
+met-a-656,ieu-b-18,multiple sclerosis || id:ieu-b-18,"Bradykinin, des-arg(9) || id:met-a-656",Simple mode,3,0.11670641074504699,0.109871634204547,0.399440456217331
+met-a-304,ieu-b-18,multiple sclerosis || id:ieu-b-18,Tryptophan || id:met-a-304,Weighted median,17,-0.8668542556012181,1.0297512718821,0.39989467379271393
+met-d-Val,ieu-b-18,multiple sclerosis || id:ieu-b-18,Valine || id:met-d-Val,Weighted mode,14,0.119139187091951,0.13695920905724798,0.400138742198661
+met-d-Gln,ieu-b-18,multiple sclerosis || id:ieu-b-18,Glutamine || id:met-d-Gln,Weighted median,30,-0.0659211853606802,0.0784688467701882,0.400855841135451
+met-d-Lactate,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Lactate || id:met-d-Lactate,Weighted mode,12,0.7319956902460699,0.8446454347730559,0.4046517743647079
+met-a-360,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Gamma-glutamyltyrosine || id:met-a-360,Inverse variance weighted,5,-1.84157613205769,2.21884138320395,0.40655463726797403
+met-a-467,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Hexanoylcarnitine || id:met-a-467,Weighted mode,4,-0.66098621316724,0.6981151524029809,0.41358362845277
+met-d-Gln,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Glutamine || id:met-d-Gln,Inverse variance weighted,40,0.11942642035466099,0.146114617430405,0.41372985687595004
+met-a-379,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Carnitine || id:met-a-379,Inverse variance weighted,17,-1.6680408567053702,2.04718636476034,0.415188644780542
+met-a-325,ieu-b-18,multiple sclerosis || id:ieu-b-18,Tyrosine || id:met-a-325,Weighted mode,3,-1.64083891708685,1.6158825397928203,0.4167509153402
+met-c-860,ieu-b-18,multiple sclerosis || id:ieu-b-18,Glutamine || id:met-c-860,Weighted median,5,-0.0743262454017916,0.0915619190657084,0.41692972209779605
+met-d-Ala,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Alanine || id:met-d-Ala,Inverse variance weighted,32,0.18944703670942198,0.23597960469757198,0.422083948287936
+met-a-467,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Hexanoylcarnitine || id:met-a-467,Simple mode,4,1.40224985887236,1.52443467711296,0.425489143654875
+met-a-652,ieu-b-18,multiple sclerosis || id:ieu-b-18,Isovalerylcarnitine || id:met-a-652,Weighted mode,3,0.436746943465355,0.44098769951067107,0.426368956575846
+met-c-938,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Tyrosine || id:met-c-938,Simple mode,4,-0.4948095664392921,0.549815240813156,0.43447105207739
+met-a-360,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Gamma-glutamyltyrosine || id:met-a-360,MR Egger,5,17.0454945399815,19.125445269421,0.43845689318687203
+met-d-Tyr,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Tyrosine || id:met-d-Tyr,Weighted mode,31,0.20939445598449,0.266829855675919,0.43875409949938393
+met-c-938,ieu-b-18,multiple sclerosis || id:ieu-b-18,Tyrosine || id:met-c-938,Weighted mode,3,-0.151437958984034,0.158419597697673,0.439989862085981
+met-c-850,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Creatinine || id:met-c-850,Weighted median,6,-0.278290623245763,0.3615796781117439,0.44150618483338105
+met-a-325,ieu-b-18,multiple sclerosis || id:ieu-b-18,Tyrosine || id:met-a-325,Simple mode,3,-1.57366740054542,1.7689279801128999,0.46753580888162893
+met-d-Creatinine,ieu-b-18,multiple sclerosis || id:ieu-b-18,Creatinine || id:met-d-Creatinine,MR Egger,55,0.664881093193292,0.920439639069683,0.473253676939385
+met-d-Gly,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Glycine || id:met-d-Gly,Inverse variance weighted,43,-0.0689365650825487,0.0964247951316839,0.4746549496752249
+met-c-938,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Tyrosine || id:met-c-938,Weighted mode,4,0.32068750652789196,0.3961337044999871,0.47745351319341495
+met-d-Tyr,ieu-b-18,multiple sclerosis || id:ieu-b-18,Tyrosine || id:met-d-Tyr,Inverse variance weighted,23,-0.196674038397816,0.28088267797316807,0.48380243989148797
+met-d-His,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Histidine || id:met-d-His,Inverse variance weighted,15,0.26130062911743895,0.381695500007497,0.49360977879028606
+met-c-860,ieu-b-18,multiple sclerosis || id:ieu-b-18,Glutamine || id:met-c-860,MR Egger,5,-0.164880048931441,0.21376497692865098,0.49670317202933795
+met-a-379,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Carnitine || id:met-a-379,MR Egger,17,-3.06348513487544,4.42241645127163,0.49907203793340005
+met-a-656,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,"Bradykinin, des-arg(9) || id:met-a-656",Inverse variance weighted,3,0.21111895019866797,0.313854295707237,0.5011601341696861
+met-a-656,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,"Bradykinin, des-arg(9) || id:met-a-656",Inverse variance weighted,3,0.21111895019866797,0.313854295707237,0.5011601341696861
+met-d-Tyr,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Tyrosine || id:met-d-Tyr,Inverse variance weighted,31,0.12645639452181,0.18834406695193,0.501958346446456
+met-c-840,ieu-b-18,multiple sclerosis || id:ieu-b-18,Alanine || id:met-c-840,Weighted median,4,-0.0840000538619927,0.12584239400624,0.504451511397183
+met-a-469,ieu-b-18,multiple sclerosis || id:ieu-b-18,Alanine || id:met-a-469,Inverse variance weighted,2,-0.668244190840063,1.00612579865036,0.506577937910984
+met-a-469,ieu-b-18,multiple sclerosis || id:ieu-b-18,Alanine || id:met-a-469,Inverse variance weighted,2,-0.668244190840063,1.00612579865036,0.506577937910984
+met-d-Citrate,ieu-b-18,multiple sclerosis || id:ieu-b-18,Citrate || id:met-d-Citrate,Weighted mode,26,0.0712085482258114,0.106037195942924,0.508033018628964
+met-a-325,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Tyrosine || id:met-a-325,Simple mode,3,-3.46489367420147,4.39133323455402,0.5127743877025179
+met-c-866,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Histidine || id:met-c-866,MR Egger,5,-0.915211909946215,1.23858371503534,0.513518455379637
+met-d-His,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Histidine || id:met-d-His,Weighted median,15,0.281892004022817,0.439909134564074,0.52165524654124
+met-c-849,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Citrate || id:met-c-849,Inverse variance weighted,5,-0.16652550352430898,0.260444822395463,0.522570030535575
+met-a-325,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Tyrosine || id:met-a-325,Weighted mode,3,-3.42394188762716,4.48560241066903,0.525023153007121
+met-d-Creatinine,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Creatinine || id:met-d-Creatinine,Simple mode,68,0.385209849803129,0.6031451983484,0.5252158806983179
+met-d-Creatinine,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Creatinine || id:met-d-Creatinine,MR Egger,68,-0.516829469748046,0.81959646129437,0.530486046491867
+met-d-Val,ieu-b-18,multiple sclerosis || id:ieu-b-18,Valine || id:met-d-Val,MR Egger,14,-0.18324225407031197,0.28488017240397806,0.532177139809626
+met-d-Lactate,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Lactate || id:met-d-Lactate,MR Egger,12,1.01157953973601,1.56383506554434,0.532289610018058
+met-a-325,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Tyrosine || id:met-a-325,Weighted median,3,-2.0420663823923104,3.283956352572,0.534052895851197
+met-d-Creatinine,ieu-b-18,multiple sclerosis || id:ieu-b-18,Creatinine || id:met-d-Creatinine,Simple mode,55,-0.172944527612525,0.27804003860465104,0.536550845909935
+met-c-938,ieu-b-18,multiple sclerosis || id:ieu-b-18,Tyrosine || id:met-c-938,Simple mode,3,-0.148212938610809,0.202352198911285,0.540101314683132
+met-a-652,ieu-b-18,multiple sclerosis || id:ieu-b-18,Isovalerylcarnitine || id:met-a-652,Inverse variance weighted,3,0.294661929332424,0.488501611020006,0.546378701110476
+met-d-Gly,ieu-b-18,multiple sclerosis || id:ieu-b-18,Glycine || id:met-d-Gly,Inverse variance weighted,33,0.044543430685295995,0.0750491670124327,0.55283098183328
+met-a-316,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Uridine || id:met-a-316,MR Egger,3,-11.0687895669384,13.1017827776495,0.5534205184981321
+met-c-850,ieu-b-18,multiple sclerosis || id:ieu-b-18,Creatinine || id:met-c-850,MR Egger,4,-0.762355959716562,1.09550826293196,0.558487438168114
+met-a-753,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Cis-4-decenoyl carnitine || id:met-a-753,Inverse variance weighted,2,-0.44988624962374396,0.7771738910953621,0.562673768909057
+met-d-Ala,ieu-b-18,multiple sclerosis || id:ieu-b-18,Alanine || id:met-d-Ala,Weighted median,25,0.0814607523953219,0.142031682411144,0.5662795942410209
+met-c-860,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Glutamine || id:met-c-860,Inverse variance weighted,5,0.206478075189772,0.362312561432878,0.568752739200641
+met-c-849,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Citrate || id:met-c-849,MR Egger,5,1.2008340786690501,1.8885363918975402,0.570060651808056
+met-c-860,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Glutamine || id:met-c-860,Simple mode,5,0.286281119762378,0.466440247562654,0.5725624577975171
+met-d-Citrate,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Citrate || id:met-d-Citrate,Weighted mode,31,-0.16136229308799901,0.290004856606076,0.582056012882312
+met-c-938,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Tyrosine || id:met-c-938,MR Egger,4,0.316087345849946,0.48611894456733795,0.5822597795967249
+met-c-940,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Valine || id:met-c-940,Simple mode,5,0.229126501126445,0.38804433201715605,0.5866253944634979
+met-a-341,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Citrate || id:met-a-341,Inverse variance weighted,6,1.32576294623671,2.46036891324,0.589992279137498
+met-d-Gln,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Glutamine || id:met-d-Gln,Weighted mode,40,0.10859303967827902,0.20020180425335699,0.590616953338925
+met-d-Creatinine,ieu-b-18,multiple sclerosis || id:ieu-b-18,Creatinine || id:met-d-Creatinine,Weighted median,55,-0.0744584952429751,0.138904231442836,0.591929557437694
+met-a-379,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Carnitine || id:met-a-379,Weighted median,17,-1.28795945687241,2.41142321980531,0.593267095240232
+met-d-Citrate,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Citrate || id:met-d-Citrate,MR Egger,31,-0.255876713777508,0.477387190911859,0.5960502380039411
+met-c-840,ieu-b-18,multiple sclerosis || id:ieu-b-18,Alanine || id:met-c-840,Weighted mode,4,-0.0829768346748133,0.14157871448288198,0.5989974693523801
+met-c-938,ieu-b-18,multiple sclerosis || id:ieu-b-18,Tyrosine || id:met-c-938,MR Egger,3,-0.551091216755895,0.758309162480782,0.599919036167696
+met-a-341,ieu-b-18,multiple sclerosis || id:ieu-b-18,Citrate || id:met-a-341,Weighted median,6,0.40905191671792,0.7802406236360309,0.6000950692161451
+met-d-Citrate,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Citrate || id:met-d-Citrate,Simple mode,31,-0.254917692052954,0.48267297610662696,0.601289170517599
+met-d-Tyr,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Tyrosine || id:met-d-Tyr,Weighted median,31,0.12854424824803398,0.251803287232096,0.609704913741655
+met-c-894,ieu-b-18,multiple sclerosis || id:ieu-b-18,Lactate || id:met-c-894,Inverse variance weighted,2,-0.10891432329205802,0.21365337050843802,0.6102118033288549
+met-d-Citrate,ieu-b-18,multiple sclerosis || id:ieu-b-18,Citrate || id:met-d-Citrate,Weighted median,26,0.05341734054158499,0.105101549550465,0.611281512778028
+met-d-His,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Histidine || id:met-d-His,Simple mode,15,0.31461730562247103,0.6162751727940761,0.617645563561634
+met-d-Gln,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Glutamine || id:met-d-Gln,Weighted median,40,0.101857862717319,0.20703300882802397,0.6227274621521
+met-c-860,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Glutamine || id:met-c-860,Weighted mode,5,0.137380200875991,0.25943330949440097,0.624458294384871
+met-a-341,ieu-b-18,multiple sclerosis || id:ieu-b-18,Citrate || id:met-a-341,Simple mode,6,0.6203038659393051,1.1960622585666498,0.626151527710901
+met-d-Gln,ieu-b-18,multiple sclerosis || id:ieu-b-18,Glutamine || id:met-d-Gln,Weighted mode,30,-0.0363201474643371,0.0741751752586639,0.6280626395050289
+met-d-Citrate,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Citrate || id:met-d-Citrate,Inverse variance weighted,31,0.11646149709970698,0.241603196980124,0.6297802009358671
+met-d-Gln,ieu-b-18,multiple sclerosis || id:ieu-b-18,Glutamine || id:met-d-Gln,MR Egger,30,-0.0574186031413848,0.11918962095397999,0.6337335409090871
+met-d-Gly,ieu-b-18,multiple sclerosis || id:ieu-b-18,Glycine || id:met-d-Gly,Weighted median,33,0.0167279654232861,0.0357319594147856,0.639676352252072
+met-c-860,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Glutamine || id:met-c-860,Weighted median,5,0.11824761230341198,0.25313638079456197,0.640406830011804
+met-a-341,ieu-b-18,multiple sclerosis || id:ieu-b-18,Citrate || id:met-a-341,Weighted mode,6,0.600720644917619,1.2178683726331798,0.642730463537272
+met-d-Val,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Valine || id:met-d-Val,Simple mode,19,-0.235560467797024,0.503077836104216,0.645234024961776
+met-c-849,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Citrate || id:met-c-849,Weighted median,5,-0.13474323890222098,0.293602532861723,0.64628387573203
+met-d-Gly,ieu-b-18,multiple sclerosis || id:ieu-b-18,Glycine || id:met-d-Gly,Simple mode,33,-0.0873296307346605,0.191246456147626,0.6510186900543
+met-a-341,ieu-b-18,multiple sclerosis || id:ieu-b-18,Citrate || id:met-a-341,Inverse variance weighted,6,-0.27058795135328,0.6085548225810831,0.656579775442794
+met-a-467,ieu-b-18,multiple sclerosis || id:ieu-b-18,Hexanoylcarnitine || id:met-a-467,Simple mode,3,0.19082370611284902,0.369783986117705,0.6572119395991121
+met-a-356,ieu-b-18,multiple sclerosis || id:ieu-b-18,Citrulline || id:met-a-356,Weighted mode,3,0.9758193825436141,1.9430434849123899,0.665356932307349
+met-a-304,ieu-b-18,multiple sclerosis || id:ieu-b-18,Tryptophan || id:met-a-304,Weighted mode,17,-0.896993580314154,2.0378996185077503,0.665712299828266
+met-a-573,ieu-b-18,multiple sclerosis || id:ieu-b-18,Isobutyrylcarnitine || id:met-a-573,Inverse variance weighted,2,-0.19183073173048398,0.44652113076718203,0.667478076428115
+met-c-840,ieu-b-18,multiple sclerosis || id:ieu-b-18,Alanine || id:met-c-840,Simple mode,4,-0.0786119710475951,0.16600222349756102,0.668142548915827
+met-a-325,ieu-b-18,multiple sclerosis || id:ieu-b-18,Tyrosine || id:met-a-325,MR Egger,3,-11.350357084251002,19.9735174047752,0.6710190690244849
+met-d-Lactate,ieu-b-18,multiple sclerosis || id:ieu-b-18,Lactate || id:met-d-Lactate,Weighted mode,8,-0.161486844315203,0.36735165741022796,0.673480290567788
+met-c-860,ieu-b-18,multiple sclerosis || id:ieu-b-18,Glutamine || id:met-c-860,Inverse variance weighted,5,-0.0428006463467221,0.102994819588629,0.6777311552518139
+met-a-652,ieu-b-18,multiple sclerosis || id:ieu-b-18,Isovalerylcarnitine || id:met-a-652,Simple mode,3,-0.321908581108373,0.67377971265149,0.679939764575778
+met-a-656,ieu-b-18,multiple sclerosis || id:ieu-b-18,"Bradykinin, des-arg(9) || id:met-a-656",MR Egger,3,0.128839114560867,0.24943652040926104,0.6964745813995
+met-c-849,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Citrate || id:met-c-849,Simple mode,5,-0.163228785685423,0.389970661168873,0.6970296896931429
+met-d-Creatinine,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Creatinine || id:met-d-Creatinine,Weighted mode,68,0.171919792964083,0.45173605772926895,0.704722036477735
+met-a-325,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Tyrosine || id:met-a-325,MR Egger,3,-18.1557839346984,37.9841180814767,0.7161440801725749
+met-a-573,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Isobutyrylcarnitine || id:met-a-573,Inverse variance weighted,3,-0.2483610628263,0.685607282738655,0.717165409628606
+met-d-Val,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Valine || id:met-d-Val,Weighted median,19,-0.120675882829547,0.33427914276988396,0.7180969596470359
+met-c-940,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Valine || id:met-c-940,Weighted mode,5,0.128248488110982,0.337875385676067,0.723553740256922
+met-d-Creatinine,ieu-b-18,multiple sclerosis || id:ieu-b-18,Creatinine || id:met-d-Creatinine,Weighted mode,55,-0.0773167853331671,0.21889136070342605,0.7252987942009309
+met-d-Tyr,ieu-b-18,multiple sclerosis || id:ieu-b-18,Tyrosine || id:met-d-Tyr,MR Egger,23,0.16602313050704,0.466578730537486,0.725516802024924
+met-d-His,ieu-b-18,multiple sclerosis || id:ieu-b-18,Histidine || id:met-d-His,Inverse variance weighted,11,0.0514729098155044,0.14714832666067001,0.7264866305563941
+met-c-840,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Alanine || id:met-c-840,MR Egger,6,-0.400322389199717,1.07047950654469,0.7274084686674079
+met-d-Tyr,ieu-b-18,multiple sclerosis || id:ieu-b-18,Tyrosine || id:met-d-Tyr,Simple mode,23,-0.0703373346387117,0.19975261799136898,0.7280972748395529
+met-a-379,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Carnitine || id:met-a-379,Weighted mode,17,-0.9557247136926891,2.7470096305826903,0.732439387672102
+met-c-840,ieu-b-18,multiple sclerosis || id:ieu-b-18,Alanine || id:met-c-840,MR Egger,4,-0.30488684388573806,0.784352502369417,0.734968534766088
+met-d-His,ieu-b-18,multiple sclerosis || id:ieu-b-18,Histidine || id:met-d-His,Weighted median,11,-0.0624838954545451,0.185196131884338,0.735820591917787
+met-d-His,ieu-b-18,multiple sclerosis || id:ieu-b-18,Histidine || id:met-d-His,Weighted mode,11,0.0802638360816281,0.239863011877799,0.74482162382444
+met-d-Creatinine,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Creatinine || id:met-d-Creatinine,Weighted median,68,0.0985736654612616,0.313087806779209,0.752880470756028
+met-d-Lactate,ieu-b-18,multiple sclerosis || id:ieu-b-18,Lactate || id:met-d-Lactate,Inverse variance weighted,8,0.135667379880853,0.43558624963811504,0.755451493953505
+met-d-Lactate,ieu-b-18,multiple sclerosis || id:ieu-b-18,Lactate || id:met-d-Lactate,Simple mode,8,-0.161486844315203,0.505631871524706,0.7587612196398871
+met-d-Gly,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Glycine || id:met-d-Gly,Simple mode,43,-0.12951542990777698,0.42784008068491897,0.7635980820019029
+met-d-Ala,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Alanine || id:met-d-Ala,Weighted mode,32,-0.124409104805931,0.41082941897722497,0.76404660634423
+met-a-304,ieu-b-18,multiple sclerosis || id:ieu-b-18,Tryptophan || id:met-a-304,Simple mode,17,-0.6749524097592691,2.2456624038721,0.767621587847771
+met-a-360,ieu-b-18,multiple sclerosis || id:ieu-b-18,Gamma-glutamyltyrosine || id:met-a-360,Inverse variance weighted,3,-0.27987049910464695,1.00565498823409,0.780784582757739
+met-d-Val,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Valine || id:met-d-Val,Weighted mode,19,-0.0936074405158798,0.33201427630310404,0.7812069981757571
+met-c-938,ieu-b-18,multiple sclerosis || id:ieu-b-18,Tyrosine || id:met-c-938,Inverse variance weighted,3,-0.0398228106422498,0.144713910620504,0.7831756333276759
+met-d-Gln,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Glutamine || id:met-d-Gln,Simple mode,40,0.128393546247309,0.469731435579546,0.7860388401609909
+met-c-849,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Citrate || id:met-c-849,Weighted mode,5,-0.10331058224416301,0.36261727042928493,0.789861083593188
+met-a-356,ieu-b-18,multiple sclerosis || id:ieu-b-18,Citrulline || id:met-a-356,MR Egger,3,-33.7883749531197,99.0614718932769,0.79073627485128
+met-d-Ala,ieu-b-18,multiple sclerosis || id:ieu-b-18,Alanine || id:met-d-Ala,Inverse variance weighted,25,0.0327889339943394,0.124538989587558,0.792332862654639
+met-c-849,ieu-b-18,multiple sclerosis || id:ieu-b-18,Citrate || id:met-c-849,Weighted mode,4,0.0392462033458595,0.140493187930306,0.798130927168196
+met-a-467,ieu-b-18,multiple sclerosis || id:ieu-b-18,Hexanoylcarnitine || id:met-a-467,MR Egger,3,0.18251052825506103,0.5707610993079151,0.802971581731674
+met-a-360,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Gamma-glutamyltyrosine || id:met-a-360,Simple mode,5,1.03468756788422,3.8828108733730002,0.8030433746023821
+met-c-894,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Lactate || id:met-c-894,Inverse variance weighted,2,0.14483943027733498,0.604394029775384,0.810606216263445
+met-c-849,ieu-b-18,multiple sclerosis || id:ieu-b-18,Citrate || id:met-c-849,Weighted median,4,0.0271867393086259,0.114584847923355,0.8124528013388871
+met-a-360,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Gamma-glutamyltyrosine || id:met-a-360,Weighted mode,5,1.03468756788422,4.13291679321233,0.8146474368094531
+met-c-849,ieu-b-18,multiple sclerosis || id:ieu-b-18,Citrate || id:met-c-849,Inverse variance weighted,4,-0.0232926185333366,0.101042013160416,0.817684543327454
+met-a-469,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Alanine || id:met-a-469,Inverse variance weighted,2,-0.657759427273598,2.86950880806202,0.818695052693333
+met-a-469,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Alanine || id:met-a-469,Inverse variance weighted,2,-0.657759427273598,2.86950880806202,0.818695052693333
+met-d-Gly,ieu-b-18,multiple sclerosis || id:ieu-b-18,Glycine || id:met-d-Gly,Weighted mode,33,0.0075463618525972,0.0335802687953241,0.823621232912006
+met-a-467,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Hexanoylcarnitine || id:met-a-467,Inverse variance weighted,4,-0.13875590685997502,0.640135528323112,0.8283952282164441
+met-d-Citrate,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Citrate || id:met-d-Citrate,Weighted median,31,-0.0597463557156906,0.28312679828591103,0.8328690777659191
+met-c-840,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Alanine || id:met-c-840,Weighted median,6,-0.0651240262193547,0.312043331973438,0.8346809819514158
+met-c-840,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Alanine || id:met-c-840,Simple mode,6,-0.0914429251528502,0.42188533878463996,0.8369707416890791
+met-c-850,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Creatinine || id:met-c-850,Weighted mode,6,-0.0972928367590589,0.45174289987416105,0.8379868035505369
+met-c-840,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Alanine || id:met-c-840,Weighted mode,6,-0.0876129136718011,0.408366456609921,0.8385978113067192
+met-a-573,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Isobutyrylcarnitine || id:met-a-573,Weighted median,3,-0.149325039593414,0.7401860855789191,0.840120096998704
+met-d-Val,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Valine || id:met-d-Val,Inverse variance weighted,19,-0.0461959447399673,0.234895351883162,0.844088866966973
+met-c-840,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Alanine || id:met-c-840,Inverse variance weighted,6,0.0454683795007012,0.256138194489381,0.8591038597980942
+met-a-341,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Citrate || id:met-a-341,Weighted median,6,0.412954316972039,2.3324345041865002,0.8594701972573889
+met-d-Gln,ieu-b-18,multiple sclerosis || id:ieu-b-18,Glutamine || id:met-d-Gln,Inverse variance weighted,30,0.014065673380328,0.0809578168683659,0.8620691955217191
+met-a-325,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Tyrosine || id:met-a-325,Inverse variance weighted,3,-0.497873537945645,2.9100356372628395,0.864154203669468
+met-d-Ala,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Alanine || id:met-d-Ala,Weighted median,32,-0.0555775447250024,0.326428069415116,0.864805904276929
+met-d-Ala,ieu-b-18,multiple sclerosis || id:ieu-b-18,Alanine || id:met-d-Ala,Simple mode,25,0.0380479659848962,0.22450894246223002,0.8668458033451709
+met-a-652,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Isovalerylcarnitine || id:met-a-652,MR Egger,3,-2.49134063455118,11.9897487668014,0.869573249800525
+met-d-Citrate,ieu-b-18,multiple sclerosis || id:ieu-b-18,Citrate || id:met-d-Citrate,MR Egger,26,0.0349536480938992,0.21564515891560398,0.872592909215399
+met-a-341,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Citrate || id:met-a-341,MR Egger,6,-1.64175093189318,9.64210288237862,0.873063753186511
+met-d-Ala,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Alanine || id:met-d-Ala,Simple mode,32,-0.0931817075517016,0.582455028276209,0.873933966857084
+met-d-Lactate,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Lactate || id:met-d-Lactate,Simple mode,12,-0.16791989437749802,1.08004194136095,0.879262938857895
+met-a-356,ieu-b-18,multiple sclerosis || id:ieu-b-18,Citrulline || id:met-a-356,Simple mode,3,0.31934415467071503,1.87854730230164,0.8806543244669391
+met-d-Lactate,ieu-b-18,multiple sclerosis || id:ieu-b-18,Lactate || id:met-d-Lactate,MR Egger,8,0.248450147146281,1.6209765053835499,0.88320875494255
+met-d-Ala,ieu-b-18,multiple sclerosis || id:ieu-b-18,Alanine || id:met-d-Ala,Weighted mode,25,0.0287359124421065,0.19661107871062197,0.885018847320127
+met-a-573,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Isobutyrylcarnitine || id:met-a-573,Simple mode,3,0.147406281614615,0.9565528817821669,0.891674957826351
+met-c-940,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Valine || id:met-c-940,Weighted median,5,0.0414850500908701,0.305322629048817,0.8919218136876049
+met-a-467,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Hexanoylcarnitine || id:met-a-467,Weighted median,4,-0.0917199380100586,0.686799143666195,0.8937608278533891
+met-a-341,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Citrate || id:met-a-341,Simple mode,6,0.398162752312636,3.0068961717555203,0.899818672301165
+met-d-Gly,ieu-b-18,multiple sclerosis || id:ieu-b-18,Glycine || id:met-d-Gly,MR Egger,33,0.011009898663702,0.0872158183221173,0.900359211307223
+met-d-Tyr,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Tyrosine || id:met-d-Tyr,Simple mode,31,0.0618352954825214,0.504077338515872,0.9031863274535871
+met-a-356,ieu-b-18,multiple sclerosis || id:ieu-b-18,Citrulline || id:met-a-356,Weighted median,3,0.165960415453963,1.4005610065846898,0.90567492542473
+met-c-850,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Creatinine || id:met-c-850,MR Egger,6,0.19630634316599105,1.59563866739218,0.9080196881057749
+met-a-573,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Isobutyrylcarnitine || id:met-a-573,Weighted mode,3,-0.106949079264719,0.8749722266159169,0.9138903810366898
+met-c-850,ieu-b-18,multiple sclerosis || id:ieu-b-18,Creatinine || id:met-c-850,Simple mode,4,-0.0295159553275182,0.263083106943388,0.9177565220418079
+met-a-360,ieu-b-18,multiple sclerosis || id:ieu-b-18,Gamma-glutamyltyrosine || id:met-a-360,MR Egger,3,-4.2840148886747595,34.238336814067104,0.920755843284551
+met-a-379,ieu-b-18,multiple sclerosis || id:ieu-b-18,Carnitine || id:met-a-379,Inverse variance weighted,16,-0.0887916215052879,0.9048547635111011,0.921830624834371
+met-d-Citrate,ieu-b-18,multiple sclerosis || id:ieu-b-18,Citrate || id:met-d-Citrate,Inverse variance weighted,26,-0.0093866089756428,0.102611824055684,0.9271136804695881
+met-a-304,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Tryptophan || id:met-a-304,MR Egger,18,2.45071733347742,27.7834601449033,0.930806143429396
+met-c-850,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Creatinine || id:met-c-850,Simple mode,6,0.0411857968309732,0.45889169227331,0.9319697204438641
+met-c-938,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Tyrosine || id:met-c-938,Weighted median,4,0.0278677603726686,0.329898601574526,0.9326798007032521
+met-c-849,ieu-b-18,multiple sclerosis || id:ieu-b-18,Citrate || id:met-c-849,Simple mode,4,0.0140458347022859,0.158043628079888,0.934783286186694
+met-a-573,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Isobutyrylcarnitine || id:met-a-573,MR Egger,3,-0.16536233882781698,1.61724422079633,0.9351314148812242
+met-a-341,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Citrate || id:met-a-341,Weighted mode,6,0.22150780148613897,2.75776380732621,0.9390973846002092
+met-a-356,ieu-b-18,multiple sclerosis || id:ieu-b-18,Citrulline || id:met-a-356,Inverse variance weighted,3,-0.0737295965329099,1.14521389645926,0.9486671499914169
+met-a-360,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Gamma-glutamyltyrosine || id:met-a-360,Weighted median,5,0.17322073511126398,2.7993313130902004,0.950658931345002
+met-d-Val,ieu-b-18,multiple sclerosis || id:ieu-b-18,Valine || id:met-d-Val,Simple mode,14,-0.0159713116322022,0.25903967184120896,0.951774747612318
+met-a-360,ieu-b-18,multiple sclerosis || id:ieu-b-18,Gamma-glutamyltyrosine || id:met-a-360,Weighted mode,3,0.0743441475195901,1.38371988417418,0.962036135387198
+met-c-840,ieu-b-18,multiple sclerosis || id:ieu-b-18,Alanine || id:met-c-840,Inverse variance weighted,4,0.0052302247265511,0.11150873093817301,0.9625896027581601
+met-a-360,ieu-b-18,multiple sclerosis || id:ieu-b-18,Gamma-glutamyltyrosine || id:met-a-360,Simple mode,3,0.0661704887369385,1.3641269273668,0.9657201241178991
+met-c-860,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Glutamine || id:met-c-860,MR Egger,5,-0.0348331220075647,0.7907526727900659,0.967632137594119
+met-a-360,ieu-b-18,multiple sclerosis || id:ieu-b-18,Gamma-glutamyltyrosine || id:met-a-360,Weighted median,3,0.0322060287041501,1.1314517651396698,0.977291808373192
+met-d-His,ieu-b-18,multiple sclerosis || id:ieu-b-18,Histidine || id:met-d-His,Simple mode,11,0.0058001045070266,0.29622449502321196,0.9847635106874859
+met-a-325,ieu-b-18,multiple sclerosis || id:ieu-b-18,Tyrosine || id:met-a-325,Inverse variance weighted,3,-0.0264806680987443,1.59495611756468,0.98675352546783
+met-d-Lactate,ieu-b-18,multiple sclerosis || id:ieu-b-18,Lactate || id:met-d-Lactate,Weighted median,8,0.002561859085276,0.28705984715592,0.992879391883149
+met-c-938,finn-b-G6_MS,MS-disease / Multiple Sclerosis || id:finn-b-G6_MS,Tyrosine || id:met-c-938,Inverse variance weighted,4,-0.0007889283719658,0.26756614672151396,0.997647412188755
